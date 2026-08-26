@@ -1,0 +1,158 @@
+Source : /home/anca5290/Documents/Genome_Analysis_Project
+Backup : /home/anca5290/Documents/BACKUP_Genome_Analysis_Project
+DryRun : false
+
+
+===== 02_trimming =====
+
+===== 03_Genome_Alignment =====
+
+===== 04_Assembly_Evaluation =====
+
+===== 05_Annotation =====
+
+===== 06_Annotation_Evaluation =====
+
+===== 07_Aligner =====
+
+===== 08_Differential_Expression =====
+
+===== 09_Validation =====
+
+===== 10_DESeq2 =====
+
+==================================================
+BACKUP JOB FINISHED
+==================================================
+
+Backup size:
+44M	/home/anca5290/Documents/BACKUP_Genome_Analysis_Project
+
+Contents of backup:
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/E745-1.L500_SZAXPI015146-56_1_clean_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/E745-1.L500_SZAXPI015146-56_2_clean_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797969_1_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797969_1.paired_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797969_2_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797969_2.paired_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797970_1_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797970_1.paired_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797970_2_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797970_2.paired_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797971_1_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797971_1.paired_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797971_2_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797971_2.paired_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797972_1_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797972_1.paired_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797972_1.unpaired_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797972_2_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797972_2.paired_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797972_2.unpaired_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797973_1_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797973_1.paired_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797973_1.unpaired_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797973_2_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797973_2.paired_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797973_2.unpaired_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797974_1_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797974_1.paired_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797974_1.unpaired_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797974_2_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797974_2.paired_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/ERR1797974_2.unpaired_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/illumina_trimmomatic_script.sh
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/m131023_233432_42174_c100519312550000001823081209281335_s1_X0.1.subreads_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/m131023_233432_42174_c100519312550000001823081209281335_s1_X0.2.subreads_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/m131023_233432_42174_c100519312550000001823081209281335_s1_X0.3.subreads_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/m131024_200535_42174_c100563672550000001823084212221342_s1_p0.1.subreads_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/m131024_200535_42174_c100563672550000001823084212221342_s1_p0.2.subreads_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/m131024_200535_42174_c100563672550000001823084212221342_s1_p0.3.subreads_fastqc.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/rna_trimmomatic_script.sh
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/trimming_fastqc_RNA_BH.sh
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/trimming_fastqc_RNA_Serum.sh
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/trimming_fastqc.sh
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/02_trimming/trimmomatic_script.sh
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/03_Genome_Alignment
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/03_Genome_Alignment/canu_script.sh
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/03_Genome_Alignment/Efaecium.contigs.fasta
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/03_Genome_Alignment/Efaecium.unassembled.fasta
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/04_Assembly_Evaluation
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/04_Assembly_Evaluation/busco.sh
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/04_Assembly_Evaluation/full_table.tsv
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/04_Assembly_Evaluation/quast.sh
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/04_Assembly_Evaluation/report.html
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/04_Assembly_Evaluation/report.pdf
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/04_Assembly_Evaluation/report.tsv
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/04_Assembly_Evaluation/report.txt
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/04_Assembly_Evaluation/short_summary.json
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/04_Assembly_Evaluation/short_summary.specific.bacteria_odb10.busco_bacteria_odb10.json
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/04_Assembly_Evaluation/short_summary.specific.bacteria_odb10.busco_bacteria_odb10.txt
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/04_Assembly_Evaluation/short_summary.specific.enterococcaceae_odb12.busco_enterococcaceae_odb12.json
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/04_Assembly_Evaluation/short_summary.specific.enterococcaceae_odb12.busco_enterococcaceae_odb12.txt
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/04_Assembly_Evaluation/short_summary.specific.enterococcus_odb12.busco_enterococcus_odb12.json
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/04_Assembly_Evaluation/short_summary.specific.enterococcus_odb12.busco_enterococcus_odb12.txt
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/04_Assembly_Evaluation/short_summary.txt
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/05_Annotation
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/05_Annotation/Efaecium.gbk
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/05_Annotation/Efaecium.gff
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/05_Annotation/Efaecium.tsv
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/05_Annotation/eggnog_Efaecium.emapper.annotations
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/05_Annotation/eggnogmapper.sh
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/05_Annotation/gene_annotations.txt
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/05_Annotation/prokka.sh
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/06_Annotation_Evaluation
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/06_Annotation_Evaluation/efaecium.delta
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/06_Annotation_Evaluation/efaecium.filter
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/06_Annotation_Evaluation/e_faecium_plot.png
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/06_Annotation_Evaluation/mummerplot.sh
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/06_Annotation_Evaluation/reference_genome.fasta
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/07_Aligner
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/07_Aligner/bwa_rna.sh
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/07_Aligner/bwa.sh
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/08_Differential_Expression
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/08_Differential_Expression/ERR1797969.counts.txt
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/08_Differential_Expression/ERR1797970.counts.txt
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/08_Differential_Expression/ERR1797971.counts.txt
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/08_Differential_Expression/ERR1797972.counts.txt
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/08_Differential_Expression/ERR1797973.counts.txt
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/08_Differential_Expression/ERR1797974.counts.txt
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/08_Differential_Expression/htseq_qc_report_20260802_173215.txt
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/08_Differential_Expression/ht_seq_qc.sh
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/08_Differential_Expression/ht_seq_rna.sh
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/08_Differential_Expression/ht_seq.sh
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/08_Differential_Expression/illumina_genome_htseq.counts.txt
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/08_Differential_Expression/prepare_deseq_input_report_20260802_202644.txt
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/08_Differential_Expression/prep_deseq_input.sh
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/09_Validation
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/09_Validation/blast_results.txt
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/09_Validation/blast.sh
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/10_DESeq2
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/10_DESeq2/counts_matrix.tsv
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/10_DESeq2/DESeq2_output.csv
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/10_DESeq2/deseq2_r.R
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/10_DESeq2/deseq2.sh
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/10_DESeq2/DESeq2_summary.txt
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/10_DESeq2/ERR1797969.deseq_input.tsv
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/10_DESeq2/ERR1797970.deseq_input.tsv
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/10_DESeq2/ERR1797971.deseq_input.tsv
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/10_DESeq2/ERR1797972.deseq_input.tsv
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/10_DESeq2/ERR1797973.deseq_input.tsv
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/10_DESeq2/ERR1797974.deseq_input.tsv
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/10_DESeq2/normalized_counts.csv
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/10_DESeq2/PCA_plot.png
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/10_DESeq2/sample_info.tsv
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/10_DESeq2/significant_genes.csv
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/10_DESeq2/top100_gene_ids.txt
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/10_DESeq2/top100_genes_annotated.tsv
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/10_DESeq2/top100_gene_to_functions.tsv
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/10_DESeq2/top50_genes.csv
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/10_DESeq2/top_gene_annotation_deseq2_eggnog.sh
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/create_backup.sh
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/github_backup.6542986.out
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/github_backup.6542988.out
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/github_backup.6543042.out
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/github_backup.6543167.out
+/home/anca5290/Documents/BACKUP_Genome_Analysis_Project/github_backup.6543280.out

@@ -1,0 +1,83 @@
+=========================================
+HTSeq Output Quality Check
+=========================================
+Date: Sun Aug  2 05:32:15 PM CEST 2026
+Directory: /home/anca5290/Documents/Genome_Analysis_Project/08_Differential_Expression
+
+Assigned reads per sample
+-------------------------
+ERR1797969.counts.txt
+7768757
+ERR1797970.counts.txt
+8920515
+ERR1797971.counts.txt
+8325903
+ERR1797972.counts.txt
+11264934
+ERR1797973.counts.txt
+11160555
+ERR1797974.counts.txt
+10124020
+
+=========================================
+Detailed statistics
+=========================================
+
+Sample: ERR1797969.counts.txt
+Assigned reads: 7768757
+Annotated genes: 3093
+Expressed genes: 2934 (94.86%)
+__no_feature: 4039253
+__ambiguous: 559379
+__too_low_aQual: 232602
+__not_aligned: 224046
+
+Sample: ERR1797970.counts.txt
+Assigned reads: 8920515
+Annotated genes: 3093
+Expressed genes: 2942 (95.12%)
+__no_feature: 4312354
+__ambiguous: 668001
+__too_low_aQual: 275249
+__not_aligned: 237207
+
+Sample: ERR1797971.counts.txt
+Assigned reads: 8325903
+Annotated genes: 3093
+Expressed genes: 2932 (94.79%)
+__no_feature: 4352696
+__ambiguous: 596116
+__too_low_aQual: 256947
+__not_aligned: 235690
+
+Sample: ERR1797972.counts.txt
+Assigned reads: 11264934
+Annotated genes: 3093
+Expressed genes: 2943 (95.15%)
+__no_feature: 834042
+__ambiguous: 1024624
+__too_low_aQual: 155871
+__not_aligned: 188075
+
+Sample: ERR1797973.counts.txt
+Assigned reads: 11160555
+Annotated genes: 3093
+Expressed genes: 2933 (94.83%)
+__no_feature: 805329
+__ambiguous: 1123066
+__too_low_aQual: 146203
+__not_aligned: 178835
+
+Sample: ERR1797974.counts.txt
+Assigned reads: 10124020
+Annotated genes: 3093
+Expressed genes: 2933 (94.83%)
+__no_feature: 756835
+__ambiguous: 960003
+__too_low_aQual: 136606
+__not_aligned: 164217
+
+=========================================
+QC complete
+Report saved as: htseq_qc_report_20260802_173215.txt
+=========================================

@@ -1,0 +1,3093 @@
+IBPFAHIO_00001	IS256 family transposase ISEf1
+IBPFAHIO_00003	IS256 family transposase ISEf1
+IBPFAHIO_00004	hypothetical protein
+IBPFAHIO_00006	Putative phosphatase
+IBPFAHIO_00007	hypothetical protein
+IBPFAHIO_00008	hypothetical protein
+IBPFAHIO_00009	Transcriptional regulatory protein SrrA
+IBPFAHIO_00010	Sensor histidine kinase RcsC
+IBPFAHIO_00011	hypothetical protein
+IBPFAHIO_00012	hypothetical protein
+IBPFAHIO_00013	Lipoteichoic acid synthase 1
+IBPFAHIO_00014	Ribosomal RNA large subunit methyltransferase I
+IBPFAHIO_00015	3-dehydroquinate dehydratase
+IBPFAHIO_00016	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+IBPFAHIO_00017	3-dehydro-bile acid delta(4%2C6)-reductase
+IBPFAHIO_00018	NADP-specific glutamate dehydrogenase
+IBPFAHIO_00019	Glucose-6-phosphate isomerase
+IBPFAHIO_00020	ISL3 family transposase ISEfa11
+IBPFAHIO_00021	hypothetical protein
+IBPFAHIO_00022	IS1182 family transposase ISEfa7
+IBPFAHIO_00023	IS982 family transposase ISEfm1
+IBPFAHIO_00024	IS30 family transposase IS1062
+IBPFAHIO_00025	hypothetical protein
+IBPFAHIO_00026	hypothetical protein
+IBPFAHIO_00027	hypothetical protein
+IBPFAHIO_00028	hypothetical protein
+IBPFAHIO_00029	hypothetical protein
+IBPFAHIO_00030	IS30 family transposase IS1252
+IBPFAHIO_00031	hypothetical protein
+IBPFAHIO_00032	hypothetical protein
+IBPFAHIO_00033	hypothetical protein
+IBPFAHIO_00034	hypothetical protein
+IBPFAHIO_00035	hypothetical protein
+IBPFAHIO_00037	Tyrosine recombinase XerC
+IBPFAHIO_00038	hypothetical protein
+IBPFAHIO_00039	hypothetical protein
+IBPFAHIO_00040	hypothetical protein
+IBPFAHIO_00041	hypothetical protein
+IBPFAHIO_00042	hypothetical protein
+IBPFAHIO_00043	hypothetical protein
+IBPFAHIO_00044	hypothetical protein
+IBPFAHIO_00045	hypothetical protein
+IBPFAHIO_00046	hypothetical protein
+IBPFAHIO_00047	hypothetical protein
+IBPFAHIO_00048	hypothetical protein
+IBPFAHIO_00049	hypothetical protein
+IBPFAHIO_00050	hypothetical protein
+IBPFAHIO_00051	hypothetical protein
+IBPFAHIO_00052	hypothetical protein
+IBPFAHIO_00053	hypothetical protein
+IBPFAHIO_00054	hypothetical protein
+IBPFAHIO_00055	hypothetical protein
+IBPFAHIO_00056	hypothetical protein
+IBPFAHIO_00057	hypothetical protein
+IBPFAHIO_00058	hypothetical protein
+IBPFAHIO_00059	hypothetical protein
+IBPFAHIO_00060	hypothetical protein
+IBPFAHIO_00061	hypothetical protein
+IBPFAHIO_00062	hypothetical protein
+IBPFAHIO_00063	putative protein YjcQ
+IBPFAHIO_00064	hypothetical protein
+IBPFAHIO_00065	hypothetical protein
+IBPFAHIO_00066	hypothetical protein
+IBPFAHIO_00067	hypothetical protein
+IBPFAHIO_00068	hypothetical protein
+IBPFAHIO_00069	hypothetical protein
+IBPFAHIO_00070	hypothetical protein
+IBPFAHIO_00071	hypothetical protein
+IBPFAHIO_00072	hypothetical protein
+IBPFAHIO_00073	hypothetical protein
+IBPFAHIO_00074	hypothetical protein
+IBPFAHIO_00075	hypothetical protein
+IBPFAHIO_00076	hypothetical protein
+IBPFAHIO_00077	hypothetical protein
+IBPFAHIO_00078	hypothetical protein
+IBPFAHIO_00079	hypothetical protein
+IBPFAHIO_00080	hypothetical protein
+IBPFAHIO_00081	hypothetical protein
+IBPFAHIO_00082	hypothetical protein
+IBPFAHIO_00083	hypothetical protein
+IBPFAHIO_00084	hypothetical protein
+IBPFAHIO_00085	hypothetical protein
+IBPFAHIO_00086	hypothetical protein
+IBPFAHIO_00087	hypothetical protein
+IBPFAHIO_00088	hypothetical protein
+IBPFAHIO_00089	IS3 family transposase ISEnfa3
+IBPFAHIO_00090	hypothetical protein
+IBPFAHIO_00091	Choloylglycine hydrolase
+IBPFAHIO_00092	IS256 family transposase ISEf1
+IBPFAHIO_00093	Choloylglycine hydrolase
+IBPFAHIO_00094	IS1182 family transposase ISEfa7
+IBPFAHIO_00095	Asparagine synthetase [glutamine-hydrolyzing] 1
+IBPFAHIO_00096	hypothetical protein
+IBPFAHIO_00097	50S ribosomal protein L33 1
+IBPFAHIO_00098	Dihydrofolate reductase
+IBPFAHIO_00099	putative siderophore-binding lipoprotein YfiY
+IBPFAHIO_00100	Ferric enterobactin transport ATP-binding protein FepC
+IBPFAHIO_00101	Iron-uptake system permease protein FeuB
+IBPFAHIO_00102	Iron-uptake system permease protein FeuC
+IBPFAHIO_00103	putative protein YqgN
+IBPFAHIO_00104	Rhomboid protease GluP
+IBPFAHIO_00105	putative protein YqgQ
+IBPFAHIO_00106	Glucokinase
+IBPFAHIO_00107	putative protein YibN
+IBPFAHIO_00108	hypothetical protein
+IBPFAHIO_00109	hypothetical protein
+IBPFAHIO_00110	hypothetical protein
+IBPFAHIO_00111	UDP-glucose 4-epimerase
+IBPFAHIO_00112	Galactose-1-phosphate uridylyltransferase
+IBPFAHIO_00113	HTH-type transcriptional repressor MelR
+IBPFAHIO_00114	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+IBPFAHIO_00115	hypothetical protein
+IBPFAHIO_00116	[Ribosomal protein S18]-alanine N-acetyltransferase
+IBPFAHIO_00117	tRNA N6-adenosine threonylcarbamoyltransferase
+IBPFAHIO_00118	hypothetical protein
+IBPFAHIO_00119	Arginine deiminase
+IBPFAHIO_00120	Ornithine carbamoyltransferase%2C catabolic
+IBPFAHIO_00121	Carbamate kinase 1
+IBPFAHIO_00122	Arginine--tRNA ligase
+IBPFAHIO_00123	Phosphonoacetaldehyde hydrolase
+IBPFAHIO_00124	Phosphonoacetaldehyde hydrolase
+IBPFAHIO_00125	2-aminoethylphosphonate--pyruvate transaminase
+IBPFAHIO_00126	Arginine repressor
+IBPFAHIO_00127	30S ribosomal protein S2
+IBPFAHIO_00128	Elongation factor Ts
+IBPFAHIO_00129	Uridylate kinase
+IBPFAHIO_00130	Ribosome-recycling factor
+IBPFAHIO_00131	Ditrans%2Cpolycis-undecaprenyl-diphosphate synthase ((2E%2C6E)-farnesyl-diphosphate specific)
+IBPFAHIO_00132	hypothetical protein
+IBPFAHIO_00133	Regulator of sigma-W protease RasP
+IBPFAHIO_00134	Proline--tRNA ligase
+IBPFAHIO_00135	DNA polymerase III PolC-type
+IBPFAHIO_00136	Ribosome maturation factor RimP
+IBPFAHIO_00137	Transcription termination/antitermination protein NusA
+IBPFAHIO_00138	hypothetical protein
+IBPFAHIO_00139	putative ribosomal protein YlxQ
+IBPFAHIO_00140	Translation initiation factor IF-2
+IBPFAHIO_00141	Ribosome-binding factor A
+IBPFAHIO_00142	phosphoketolase
+IBPFAHIO_00143	Xylulose-5-phosphate phosphoketolase
+IBPFAHIO_00144	Xylulose-5-phosphate phosphoketolase
+IBPFAHIO_00145	tRNA pseudouridine synthase B
+IBPFAHIO_00146	Bifunctional riboflavin kinase/FMN adenylyltransferase
+IBPFAHIO_00147	Glucose 1-dehydrogenase 4
+IBPFAHIO_00148	Glucose uptake protein GlcU
+IBPFAHIO_00149	hypothetical protein
+IBPFAHIO_00150	Intracellular iron chaperone frataxin
+IBPFAHIO_00151	hypothetical protein
+IBPFAHIO_00152	Microcin C7 self-immunity protein MccF
+IBPFAHIO_00153	hypothetical protein
+IBPFAHIO_00154	putative protease YdeA
+IBPFAHIO_00155	hypothetical protein
+IBPFAHIO_00156	Heme chaperone HemW
+IBPFAHIO_00157	Heat-inducible transcription repressor HrcA
+IBPFAHIO_00158	Protein GrpE
+IBPFAHIO_00159	Chaperone protein DnaK
+IBPFAHIO_00160	Chaperone protein DnaJ
+IBPFAHIO_00161	hypothetical protein
+IBPFAHIO_00162	Arginine transport ATP-binding protein ArtM
+IBPFAHIO_00163	Membrane-bound lytic murein transglycosylase F
+IBPFAHIO_00164	UvrABC system protein B
+IBPFAHIO_00165	UvrABC system protein A
+IBPFAHIO_00166	D-aspartate ligase
+IBPFAHIO_00167	Aspartate racemase
+IBPFAHIO_00168	Nucleotide-binding protein YvcJ
+IBPFAHIO_00169	Putative gluconeogenesis factor
+IBPFAHIO_00170	putative cell division protein WhiA
+IBPFAHIO_00171	hypothetical protein
+IBPFAHIO_00172	hypothetical protein
+IBPFAHIO_00173	hypothetical protein
+IBPFAHIO_00174	IS30 family transposase IS1252
+IBPFAHIO_00175	hypothetical protein
+IBPFAHIO_00176	hypothetical protein
+IBPFAHIO_00177	hypothetical protein
+IBPFAHIO_00178	hypothetical protein
+IBPFAHIO_00179	hypothetical protein
+IBPFAHIO_00180	Pyruvate:ferredoxin oxidoreductase
+IBPFAHIO_00181	Cyclic di-AMP synthase CdaA
+IBPFAHIO_00182	hypothetical protein
+IBPFAHIO_00183	Phosphoglucosamine mutase
+IBPFAHIO_00184	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+IBPFAHIO_00185	hypothetical protein
+IBPFAHIO_00186	Putative signal peptide peptidase SppA
+IBPFAHIO_00187	hypothetical protein
+IBPFAHIO_00188	hypothetical protein
+IBPFAHIO_00189	Trigger factor
+IBPFAHIO_00190	ATP-dependent Clp protease ATP-binding subunit ClpX
+IBPFAHIO_00191	putative GTP-binding protein EngB
+IBPFAHIO_00192	hypothetical protein
+IBPFAHIO_00193	hypothetical protein
+IBPFAHIO_00194	hypothetical protein
+IBPFAHIO_00195	HTH-type transcriptional repressor GlcR
+IBPFAHIO_00196	Tagatose-6-phosphate kinase
+IBPFAHIO_00197	PTS system fructose-specific EIIABC component
+IBPFAHIO_00198	H(+)/Cl(-) exchange transporter ClcA
+IBPFAHIO_00199	ATP-dependent DNA helicase PcrA
+IBPFAHIO_00200	DNA ligase
+IBPFAHIO_00201	Glutamyl-tRNA(Gln) amidotransferase subunit C
+IBPFAHIO_00202	Glutamyl-tRNA(Gln) amidotransferase subunit A
+IBPFAHIO_00203	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+IBPFAHIO_00204	Diacylglycerol kinase
+IBPFAHIO_00205	putative RNA methyltransferase
+IBPFAHIO_00206	hypothetical protein
+IBPFAHIO_00207	Acetyl esterase
+IBPFAHIO_00208	HTH-type transcriptional repressor MelR
+IBPFAHIO_00209	Alpha-galactosidase Mel36A
+IBPFAHIO_00210	Beta-galactosidase large subunit
+IBPFAHIO_00211	Beta-galactosidase small subunit
+IBPFAHIO_00212	Phospho-2-dehydro-3-deoxyheptonate aldolase
+IBPFAHIO_00213	3-dehydroquinate synthase
+IBPFAHIO_00214	Chorismate synthase
+IBPFAHIO_00215	hypothetical protein
+IBPFAHIO_00216	3-phosphoshikimate 1-carboxyvinyltransferase
+IBPFAHIO_00217	Shikimate kinase
+IBPFAHIO_00218	Bifunctional chorismate mutase/prephenate dehydratase
+IBPFAHIO_00219	hypothetical protein
+IBPFAHIO_00220	HTH-type transcriptional activator RhaR
+IBPFAHIO_00221	Protein-glutamate methylesterase/protein-glutamine glutaminase
+IBPFAHIO_00222	Lactose-binding protein
+IBPFAHIO_00223	Lactose transport system permease protein LacF
+IBPFAHIO_00224	Lactose transport system permease protein LacG
+IBPFAHIO_00225	Na(+)%2C Li(+)%2C K(+)/H(+) antiporter subunit B
+IBPFAHIO_00226	Na(+)%2C Li(+)%2C K(+)/H(+) antiporter subunit B
+IBPFAHIO_00227	hypothetical protein
+IBPFAHIO_00228	hypothetical protein
+IBPFAHIO_00229	hypothetical protein
+IBPFAHIO_00230	2%2C3-bisphosphoglycerate-dependent phosphoglycerate mutase
+IBPFAHIO_00231	Phosphoglycolate phosphatase
+IBPFAHIO_00232	hypothetical protein
+IBPFAHIO_00233	L-cystine uptake protein TcyP
+IBPFAHIO_00234	hypothetical protein
+IBPFAHIO_00235	hypothetical protein
+IBPFAHIO_00236	hypothetical protein
+IBPFAHIO_00237	Serine/threonine-protein phosphatase 1
+IBPFAHIO_00238	Protein YhgF
+IBPFAHIO_00239	Protein SprT-like protein
+IBPFAHIO_00240	Protein YdcF
+IBPFAHIO_00241	UDP-N-acetylmuramate--L-alanine ligase
+IBPFAHIO_00242	hypothetical protein
+IBPFAHIO_00243	Inner membrane protein YbhL
+IBPFAHIO_00244	DNA polymerase I
+IBPFAHIO_00245	Formamidopyrimidine-DNA glycosylase
+IBPFAHIO_00246	Dephospho-CoA kinase
+IBPFAHIO_00247	hypothetical protein
+IBPFAHIO_00248	Transcriptional repressor NrdR
+IBPFAHIO_00249	Replication initiation and membrane attachment protein
+IBPFAHIO_00250	Primosomal protein DnaI
+IBPFAHIO_00251	Primosomal protein DnaI
+IBPFAHIO_00252	hypothetical protein
+IBPFAHIO_00253	ISL3 family transposase ISEfa5
+IBPFAHIO_00254	tRNA (adenine(22)-N(1))-methyltransferase
+IBPFAHIO_00255	tRNA (adenine(22)-N(1))-methyltransferase
+IBPFAHIO_00256	GTP cyclohydrolase 1 type 2 
+IBPFAHIO_00257	GTP cyclohydrolase 1 type 2 
+IBPFAHIO_00258	Peptidase T
+IBPFAHIO_00259	Diacylglycerol kinase
+IBPFAHIO_00260	hypothetical protein
+IBPFAHIO_00261	hypothetical protein
+IBPFAHIO_00262	Chaperone protein ClpB
+IBPFAHIO_00263	hypothetical protein
+IBPFAHIO_00264	hypothetical protein
+IBPFAHIO_00265	N-acetyltransferase Eis
+IBPFAHIO_00266	Elongation factor 4
+IBPFAHIO_00267	Tyrosine recombinase XerC
+IBPFAHIO_00268	IS30 family transposase IS1252
+IBPFAHIO_00269	IS256 family transposase ISEf1
+IBPFAHIO_00270	hypothetical protein
+IBPFAHIO_00271	hypothetical protein
+IBPFAHIO_00272	hypothetical protein
+IBPFAHIO_00273	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+IBPFAHIO_00274	putative licABCH operon regulator
+IBPFAHIO_00275	hypothetical protein
+IBPFAHIO_00276	PTS system glucitol/sorbitol-specific EIIC component
+IBPFAHIO_00277	PTS system glucitol/sorbitol-specific EIIB component
+IBPFAHIO_00278	IS110 family transposase ISSpn10
+IBPFAHIO_00279	PTS system glucitol/sorbitol-specific EIIA component
+IBPFAHIO_00280	Fructose-6-phosphate aldolase 1
+IBPFAHIO_00281	Foldase protein PrsA
+IBPFAHIO_00282	hypothetical protein
+IBPFAHIO_00283	hypothetical protein
+IBPFAHIO_00284	hypothetical protein
+IBPFAHIO_00285	hypothetical protein
+IBPFAHIO_00286	Regulatory protein Spx
+IBPFAHIO_00287	Streptothricin hydrolase
+IBPFAHIO_00288	hypothetical protein
+IBPFAHIO_00289	Acetyl esterase
+IBPFAHIO_00290	hypothetical protein
+IBPFAHIO_00291	HTH-type transcriptional regulator MurR
+IBPFAHIO_00292	6-phosphogluconate dehydrogenase%2C NAD(+)-dependent%2C decarboxylating
+IBPFAHIO_00293	Phenyllactate dehydrogenase
+IBPFAHIO_00294	hypothetical protein
+IBPFAHIO_00295	Hydroxycarboxylate dehydrogenase A
+IBPFAHIO_00296	hypothetical protein
+IBPFAHIO_00297	PTS system mannose-specific EIID component
+IBPFAHIO_00298	PTS system sorbose-specific EIIB component
+IBPFAHIO_00299	hypothetical protein
+IBPFAHIO_00300	hypothetical protein
+IBPFAHIO_00301	PTS system mannose-specific EIIAB component
+IBPFAHIO_00302	Mannonate dehydratase
+IBPFAHIO_00303	Pyrophosphatase PpaX
+IBPFAHIO_00304	hypothetical protein
+IBPFAHIO_00305	Cold shock protein 2
+IBPFAHIO_00306	hypothetical protein
+IBPFAHIO_00307	hypothetical protein
+IBPFAHIO_00308	hypothetical protein
+IBPFAHIO_00309	hypothetical protein
+IBPFAHIO_00310	hypothetical protein
+IBPFAHIO_00312	hypothetical protein
+IBPFAHIO_00313	Sugar phosphatase YidA
+IBPFAHIO_00314	General stress protein A
+IBPFAHIO_00315	General stress protein A
+IBPFAHIO_00316	hypothetical protein
+IBPFAHIO_00317	hypothetical protein
+IBPFAHIO_00318	putative oxidoreductase YghA
+IBPFAHIO_00319	hypothetical protein
+IBPFAHIO_00320	hypothetical protein
+IBPFAHIO_00321	hypothetical protein
+IBPFAHIO_00322	hypothetical protein
+IBPFAHIO_00323	hypothetical protein
+IBPFAHIO_00324	hypothetical protein
+IBPFAHIO_00325	hypothetical protein
+IBPFAHIO_00326	hypothetical protein
+IBPFAHIO_00327	hypothetical protein
+IBPFAHIO_00328	hypothetical protein
+IBPFAHIO_00329	hypothetical protein
+IBPFAHIO_00330	Stress response regulator gls24 
+IBPFAHIO_00331	hypothetical protein
+IBPFAHIO_00332	ISL3 family transposase ISEfa11
+IBPFAHIO_00333	Ammonia channel
+IBPFAHIO_00334	Glutamate/gamma-aminobutyrate antiporter
+IBPFAHIO_00335	Glutaminase
+IBPFAHIO_00336	hypothetical protein
+IBPFAHIO_00337	1-deoxy-D-xylulose-5-phosphate synthase
+IBPFAHIO_00338	hypothetical protein
+IBPFAHIO_00339	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+IBPFAHIO_00340	hypothetical protein
+IBPFAHIO_00341	hypothetical protein
+IBPFAHIO_00342	putative peptidoglycan glycosyltransferase FtsW
+IBPFAHIO_00343	Regulatory protein MsrR
+IBPFAHIO_00344	Beta-lactam-inducible penicillin-binding protein
+IBPFAHIO_00345	Na(+)/H(+) antiporter
+IBPFAHIO_00346	Na(+)/H(+) antiporter
+IBPFAHIO_00347	hypothetical protein
+IBPFAHIO_00348	hypothetical protein
+IBPFAHIO_00349	NADH dehydrogenase
+IBPFAHIO_00350	Alkyl hydroperoxide reductase C
+IBPFAHIO_00351	HTH-type transcriptional repressor RspR
+IBPFAHIO_00352	Mannonate dehydratase
+IBPFAHIO_00353	Mannonate dehydratase
+IBPFAHIO_00354	hypothetical protein
+IBPFAHIO_00355	hypothetical protein
+IBPFAHIO_00356	hypothetical protein
+IBPFAHIO_00357	hypothetical protein
+IBPFAHIO_00358	Organic hydroperoxide resistance transcriptional regulator
+IBPFAHIO_00359	Organic hydroperoxide resistance protein OhrA
+IBPFAHIO_00360	hypothetical protein
+IBPFAHIO_00361	hypothetical protein
+IBPFAHIO_00362	Intracellular maltogenic amylase
+IBPFAHIO_00363	Maltodextrin-binding protein MdxE
+IBPFAHIO_00364	hypothetical protein
+IBPFAHIO_00365	Maltose/maltodextrin transport system permease protein MalG
+IBPFAHIO_00366	hypothetical protein
+IBPFAHIO_00367	Cyclopropane-fatty-acyl-phospholipid synthase
+IBPFAHIO_00368	hypothetical protein
+IBPFAHIO_00369	Dihydroorotate dehydrogenase A (fumarate)
+IBPFAHIO_00370	6-aminohexanoate-cyclic-dimer hydrolase
+IBPFAHIO_00371	putative ABC transporter extracellular-binding protein YckB
+IBPFAHIO_00372	L-cystine transport system permease protein YecS
+IBPFAHIO_00373	hypothetical protein
+IBPFAHIO_00374	hypothetical protein
+IBPFAHIO_00375	hypothetical protein
+IBPFAHIO_00376	Guanylate kinase
+IBPFAHIO_00377	Nucleoside permease NupC
+IBPFAHIO_00378	hypothetical protein
+IBPFAHIO_00379	hypothetical protein
+IBPFAHIO_00380	hypothetical protein
+IBPFAHIO_00381	hypothetical protein
+IBPFAHIO_00382	hypothetical protein
+IBPFAHIO_00383	hypothetical protein
+IBPFAHIO_00384	hypothetical protein
+IBPFAHIO_00385	Inner membrane protein YgaZ
+IBPFAHIO_00386	hypothetical protein
+IBPFAHIO_00387	Lipid II flippase MurJ
+IBPFAHIO_00388	Protein DegV
+IBPFAHIO_00389	hypothetical protein
+IBPFAHIO_00390	hypothetical protein
+IBPFAHIO_00391	Oligo-1%2C6-glucosidase
+IBPFAHIO_00392	hypothetical protein
+IBPFAHIO_00393	Thiamine precursor transporter HmpT
+IBPFAHIO_00394	Pyridoxine kinase
+IBPFAHIO_00395	2-succinylbenzoate--CoA ligase
+IBPFAHIO_00396	Tyrosine recombinase XerC
+IBPFAHIO_00397	Stress response protein YsnF
+IBPFAHIO_00398	Adaptive-response sensory-kinase SasA
+IBPFAHIO_00399	Response regulator MprA
+IBPFAHIO_00400	putative ABC transporter permease
+IBPFAHIO_00401	Lipoprotein-releasing system ATP-binding protein LolD
+IBPFAHIO_00402	Putative hemin import ATP-binding protein HrtA
+IBPFAHIO_00403	hypothetical protein
+IBPFAHIO_00404	hypothetical protein
+IBPFAHIO_00405	hypothetical protein
+IBPFAHIO_00406	hypothetical protein
+IBPFAHIO_00407	hypothetical protein
+IBPFAHIO_00408	hypothetical protein
+IBPFAHIO_00409	hypothetical protein
+IBPFAHIO_00410	hypothetical protein
+IBPFAHIO_00411	hypothetical protein
+IBPFAHIO_00412	putative HTH-type transcriptional regulator YbbH
+IBPFAHIO_00413	putative oxidoreductase YhhX
+IBPFAHIO_00414	hypothetical protein
+IBPFAHIO_00415	hypothetical protein
+IBPFAHIO_00416	hypothetical protein
+IBPFAHIO_00417	Ascorbate-specific PTS system EIIC component
+IBPFAHIO_00418	hypothetical protein
+IBPFAHIO_00419	hypothetical protein
+IBPFAHIO_00420	HTH-type transcriptional activator RhaS
+IBPFAHIO_00421	hypothetical protein
+IBPFAHIO_00422	L-lactate dehydrogenase
+IBPFAHIO_00423	hypothetical protein
+IBPFAHIO_00424	hypothetical protein
+IBPFAHIO_00425	hypothetical protein
+IBPFAHIO_00426	DNA topoisomerase 3
+IBPFAHIO_00427	hypothetical protein
+IBPFAHIO_00428	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+IBPFAHIO_00429	Shikimate dehydrogenase (NADP(+))
+IBPFAHIO_00430	Bicarbonate transport ATP-binding protein CmpD
+IBPFAHIO_00431	hypothetical protein
+IBPFAHIO_00432	hypothetical protein
+IBPFAHIO_00433	hypothetical protein
+IBPFAHIO_00434	IS30 family transposase IS1252
+IBPFAHIO_00435	Rqc2 RqcH
+IBPFAHIO_00436	HTH-type transcriptional regulator HdfR
+IBPFAHIO_00437	Carbonic anhydrase
+IBPFAHIO_00438	5'-deoxynucleotidase YfbR
+IBPFAHIO_00439	Orotate phosphoribosyltransferase
+IBPFAHIO_00440	Orotidine 5'-phosphate decarboxylase
+IBPFAHIO_00441	Dihydroorotate dehydrogenase B (NAD(+))%2C catalytic subunit
+IBPFAHIO_00442	Dihydroorotate dehydrogenase B (NAD(+))%2C electron transfer subunit
+IBPFAHIO_00443	Dihydroorotate dehydrogenase B (NAD(+))%2C electron transfer subunit
+IBPFAHIO_00444	Carbamoyl-phosphate synthase large chain
+IBPFAHIO_00445	Carbamoyl-phosphate synthase small chain
+IBPFAHIO_00446	Dihydroorotase
+IBPFAHIO_00447	Aspartate carbamoyltransferase
+IBPFAHIO_00448	Uracil permease
+IBPFAHIO_00449	Bifunctional protein pyrR
+IBPFAHIO_00450	Ribosomal large subunit pseudouridine synthase D
+IBPFAHIO_00451	Lipoprotein signal peptidase
+IBPFAHIO_00452	hypothetical protein
+IBPFAHIO_00453	hypothetical protein
+IBPFAHIO_00454	Formate--tetrahydrofolate ligase 1
+IBPFAHIO_00455	hypothetical protein
+IBPFAHIO_00456	hypothetical protein
+IBPFAHIO_00457	14.7 kDa ribonuclease H-like protein
+IBPFAHIO_00458	Ferrous-iron efflux pump FieF
+IBPFAHIO_00459	Pantothenate transporter PanT
+IBPFAHIO_00460	Alanine--tRNA ligase
+IBPFAHIO_00461	Acetyltransferase
+IBPFAHIO_00462	DEAD-box ATP-dependent RNA helicase CshB
+IBPFAHIO_00463	hypothetical protein
+IBPFAHIO_00464	hypothetical protein
+IBPFAHIO_00465	Serine/threonine exchanger SteT
+IBPFAHIO_00466	putative epimerase/dehydratase
+IBPFAHIO_00467	Putative pyridoxal phosphate-dependent acyltransferase
+IBPFAHIO_00468	hypothetical protein
+IBPFAHIO_00469	putative protein YedJ
+IBPFAHIO_00470	Carboxypeptidase 1
+IBPFAHIO_00471	Ribosomal RNA large subunit methyltransferase L
+IBPFAHIO_00472	Cell cycle protein GpsB
+IBPFAHIO_00473	hypothetical protein
+IBPFAHIO_00474	Holliday junction resolvase RecU
+IBPFAHIO_00475	Penicillin-binding protein 1A
+IBPFAHIO_00476	ISL3 family transposase ISEfa5
+IBPFAHIO_00477	hypothetical protein
+IBPFAHIO_00478	Endonuclease III
+IBPFAHIO_00479	DNA replication protein DnaD
+IBPFAHIO_00480	Tetracycline resistance protein%2C class C
+IBPFAHIO_00481	hypothetical protein
+IBPFAHIO_00482	hypothetical protein
+IBPFAHIO_00483	NADH oxidase
+IBPFAHIO_00484	Peroxide operon regulator
+IBPFAHIO_00485	Cysteine synthase
+IBPFAHIO_00486	Autolysin
+IBPFAHIO_00487	IS30 family transposase IS1252
+IBPFAHIO_00488	Transketolase
+IBPFAHIO_00489	hypothetical protein
+IBPFAHIO_00490	LexA repressor
+IBPFAHIO_00491	hypothetical protein
+IBPFAHIO_00492	Adenine phosphoribosyltransferase
+IBPFAHIO_00493	hypothetical protein
+IBPFAHIO_00494	hypothetical protein
+IBPFAHIO_00495	3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase
+IBPFAHIO_00496	Ribonuclease Z
+IBPFAHIO_00497	hypothetical protein
+IBPFAHIO_00498	GTPase Obg
+IBPFAHIO_00499	Glyceraldehyde-3-phosphate dehydrogenase
+IBPFAHIO_00500	2-succinyl-6-hydroxy-2%2C4-cyclohexadiene-1-carboxylate synthase
+IBPFAHIO_00501	IS30 family transposase IS6770
+IBPFAHIO_00502	hypothetical protein
+IBPFAHIO_00503	hypothetical protein
+IBPFAHIO_00504	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+IBPFAHIO_00505	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+IBPFAHIO_00506	Branched-chain-amino-acid aminotransferase
+IBPFAHIO_00507	putative MscS family protein YkuT
+IBPFAHIO_00508	hypothetical protein
+IBPFAHIO_00509	hypothetical protein
+IBPFAHIO_00510	Ribonuclease PH
+IBPFAHIO_00511	Glutamate racemase
+IBPFAHIO_00512	putative glutamine ABC transporter permease protein GlnP
+IBPFAHIO_00513	putative glutamine ABC transporter permease protein GlnM
+IBPFAHIO_00514	ABC transporter glutamine-binding protein GlnH
+IBPFAHIO_00515	Glutamine transport ATP-binding protein GlnQ
+IBPFAHIO_00516	Tryptophan--tRNA ligase 2
+IBPFAHIO_00517	Phenylalanine--tRNA ligase beta subunit
+IBPFAHIO_00518	Phenylalanine--tRNA ligase alpha subunit
+IBPFAHIO_00519	HTH-type transcriptional regulator YodB
+IBPFAHIO_00520	ATP-dependent helicase/nuclease subunit A
+IBPFAHIO_00521	ATP-dependent helicase/deoxyribonuclease subunit B
+IBPFAHIO_00522	ATP-dependent helicase/deoxyribonuclease subunit B
+IBPFAHIO_00523	ISL3 family transposase ISEfa11
+IBPFAHIO_00524	Di-/tripeptide transporter
+IBPFAHIO_00525	Di-/tripeptide transporter
+IBPFAHIO_00526	hypothetical protein
+IBPFAHIO_00527	hypothetical protein
+IBPFAHIO_00528	hypothetical protein
+IBPFAHIO_00529	hypothetical protein
+IBPFAHIO_00530	hypothetical protein
+IBPFAHIO_00532	hypothetical protein
+IBPFAHIO_00533	hypothetical protein
+IBPFAHIO_00534	hypothetical protein
+IBPFAHIO_00535	hypothetical protein
+IBPFAHIO_00536	hypothetical protein
+IBPFAHIO_00537	hypothetical protein
+IBPFAHIO_00538	hypothetical protein
+IBPFAHIO_00539	Putative universal stress protein
+IBPFAHIO_00540	hypothetical protein
+IBPFAHIO_00542	hypothetical protein
+IBPFAHIO_00543	hypothetical protein
+IBPFAHIO_00544	hypothetical protein
+IBPFAHIO_00545	hypothetical protein
+IBPFAHIO_00546	3'-5' exonuclease DinG
+IBPFAHIO_00547	putative metallo-hydrolase
+IBPFAHIO_00548	2%2C3-bisphosphoglycerate-dependent phosphoglycerate mutase
+IBPFAHIO_00549	Undecaprenyl-diphosphatase
+IBPFAHIO_00550	Zinc-transporting ATPase
+IBPFAHIO_00551	hypothetical protein
+IBPFAHIO_00552	hypothetical protein
+IBPFAHIO_00553	30S ribosomal protein S20
+IBPFAHIO_00554	putative protein YqeN
+IBPFAHIO_00555	ComE operon protein 3
+IBPFAHIO_00556	tRNA-specific adenosine deaminase
+IBPFAHIO_00557	hypothetical protein
+IBPFAHIO_00558	hypothetical protein
+IBPFAHIO_00559	hypothetical protein
+IBPFAHIO_00560	putative protein YlbL
+IBPFAHIO_00561	Phosphopantetheine adenylyltransferase
+IBPFAHIO_00562	Ribosomal RNA small subunit methyltransferase D
+IBPFAHIO_00563	hypothetical protein
+IBPFAHIO_00564	hypothetical protein
+IBPFAHIO_00565	hypothetical protein
+IBPFAHIO_00566	Pyruvate carboxylase
+IBPFAHIO_00567	putative peptidoglycan glycosyltransferase FtsW
+IBPFAHIO_00568	hypothetical protein
+IBPFAHIO_00569	ATP-dependent DNA helicase RecQ
+IBPFAHIO_00570	GTP-binding protein TypA/BipA
+IBPFAHIO_00571	3'(2')%2C5'-bisphosphate nucleotidase CysQ
+IBPFAHIO_00572	hypothetical protein
+IBPFAHIO_00573	Dihydrolipoyl dehydrogenase
+IBPFAHIO_00574	hypothetical protein
+IBPFAHIO_00575	Pyruvate dehydrogenase E1 component subunit beta
+IBPFAHIO_00576	Pyruvate dehydrogenase E1 component subunit alpha
+IBPFAHIO_00577	HTH-type transcriptional regulator NorG
+IBPFAHIO_00578	GMP reductase
+IBPFAHIO_00579	Xylose transport system permease protein XylH
+IBPFAHIO_00580	Xylose import ATP-binding protein XylG
+IBPFAHIO_00581	Multiple sugar-binding periplasmic receptor ChvE
+IBPFAHIO_00582	ABC transporter periplasmic-binding protein YtfQ
+IBPFAHIO_00583	hypothetical protein
+IBPFAHIO_00584	HTH-type transcriptional activator RhaR
+IBPFAHIO_00585	Oxidoreductase YdhF
+IBPFAHIO_00586	Phosphoribosylamine--glycine ligase
+IBPFAHIO_00587	Bifunctional purine biosynthesis protein PurH
+IBPFAHIO_00588	Phosphoribosylglycinamide formyltransferase
+IBPFAHIO_00589	Phosphoribosylformylglycinamidine cyclo-ligase
+IBPFAHIO_00590	Amidophosphoribosyltransferase
+IBPFAHIO_00591	Phosphoribosylformylglycinamidine synthase subunit PurL
+IBPFAHIO_00592	Phosphoribosylformylglycinamidine synthase subunit PurQ
+IBPFAHIO_00593	Phosphoribosylformylglycinamidine synthase subunit PurS
+IBPFAHIO_00594	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+IBPFAHIO_00595	hypothetical protein
+IBPFAHIO_00596	Adenylosuccinate lyase
+IBPFAHIO_00597	N5-carboxyaminoimidazole ribonucleotide synthase
+IBPFAHIO_00598	N5-carboxyaminoimidazole ribonucleotide mutase
+IBPFAHIO_00599	Nucleobase transporter PlUacP
+IBPFAHIO_00600	Xanthine phosphoribosyltransferase
+IBPFAHIO_00601	Putative oxidoreductase YteT
+IBPFAHIO_00602	hypothetical protein
+IBPFAHIO_00603	L-arabinose transport system permease protein AraQ
+IBPFAHIO_00604	Lactose transport system permease protein LacF
+IBPFAHIO_00605	Putative ABC transporter substrate-binding protein YesO
+IBPFAHIO_00606	hypothetical protein
+IBPFAHIO_00607	Exo-glucosaminidase LytG
+IBPFAHIO_00608	hypothetical protein
+IBPFAHIO_00609	hypothetical protein
+IBPFAHIO_00610	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+IBPFAHIO_00611	hypothetical protein
+IBPFAHIO_00612	hypothetical protein
+IBPFAHIO_00613	Inner membrane protein YqiK
+IBPFAHIO_00614	putative membrane protein YuaF
+IBPFAHIO_00615	Sensor histidine kinase DcuS
+IBPFAHIO_00616	Sensor histidine kinase DcuS
+IBPFAHIO_00617	Transcriptional regulatory protein DcuR
+IBPFAHIO_00618	(R)-2-hydroxyglutarate dehydrogenase
+IBPFAHIO_00619	hypothetical protein
+IBPFAHIO_00620	N-acetylgalactosamine-6-phosphate deacetylase
+IBPFAHIO_00621	hypothetical protein
+IBPFAHIO_00622	Glutamate-pyruvate aminotransferase AlaA
+IBPFAHIO_00623	hypothetical protein
+IBPFAHIO_00625	hypothetical protein
+IBPFAHIO_00626	hypothetical protein
+IBPFAHIO_00627	IS256 family transposase ISEf1
+IBPFAHIO_00628	hypothetical protein
+IBPFAHIO_00629	Fosfomycin resistance protein FosX
+IBPFAHIO_00630	hypothetical protein
+IBPFAHIO_00631	Chromosome partition protein Smc
+IBPFAHIO_00632	hypothetical protein
+IBPFAHIO_00633	putative metal-dependent hydrolase YcfH
+IBPFAHIO_00634	Aliphatic sulfonates import ATP-binding protein SsuB
+IBPFAHIO_00635	Formylaminopyrimidine-binding protein
+IBPFAHIO_00636	Riboflavin transport system permease protein RibX
+IBPFAHIO_00637	Glutathione amide reductase
+IBPFAHIO_00638	hypothetical protein
+IBPFAHIO_00639	Carnitine transport ATP-binding protein OpuCA
+IBPFAHIO_00640	hypothetical protein
+IBPFAHIO_00641	hypothetical protein
+IBPFAHIO_00642	hypothetical protein
+IBPFAHIO_00643	hypothetical protein
+IBPFAHIO_00644	putative HTH-type transcriptional repressor ExuR
+IBPFAHIO_00645	hypothetical protein
+IBPFAHIO_00646	hypothetical protein
+IBPFAHIO_00647	hypothetical protein
+IBPFAHIO_00648	hypothetical protein
+IBPFAHIO_00649	hypothetical protein
+IBPFAHIO_00650	putative manganese-dependent inorganic pyrophosphatase
+IBPFAHIO_00651	Pyruvate formate-lyase-activating enzyme
+IBPFAHIO_00652	Formate acetyltransferase
+IBPFAHIO_00653	DNA topoisomerase 4 subunit A
+IBPFAHIO_00654	DNA topoisomerase 4 subunit B
+IBPFAHIO_00655	putative protein YccU
+IBPFAHIO_00656	Glycerol-3-phosphate acyltransferase
+IBPFAHIO_00657	Protein LacX%2C plasmid
+IBPFAHIO_00658	GTP-sensing transcriptional pleiotropic repressor CodY
+IBPFAHIO_00659	ATP-dependent protease ATPase subunit ClpY
+IBPFAHIO_00660	ATP-dependent protease subunit HslV
+IBPFAHIO_00661	Tyrosine recombinase XerC
+IBPFAHIO_00662	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+IBPFAHIO_00663	DNA topoisomerase 1
+IBPFAHIO_00664	DNA processing protein DprA
+IBPFAHIO_00665	Ribonuclease HII
+IBPFAHIO_00666	Ribosome biogenesis GTPase A
+IBPFAHIO_00667	hypothetical protein
+IBPFAHIO_00668	Folate transporter FolT
+IBPFAHIO_00669	Signal peptidase I V
+IBPFAHIO_00670	hypothetical protein
+IBPFAHIO_00671	Peptide methionine sulfoxide reductase MsrA
+IBPFAHIO_00672	hypothetical protein
+IBPFAHIO_00673	hypothetical protein
+IBPFAHIO_00674	DegV domain-containing protein
+IBPFAHIO_00675	hypothetical protein
+IBPFAHIO_00676	Dihydrofolate reductase
+IBPFAHIO_00677	Thymidylate synthase
+IBPFAHIO_00678	Energy-dependent translational throttle protein EttA
+IBPFAHIO_00679	hypothetical protein
+IBPFAHIO_00680	hypothetical protein
+IBPFAHIO_00681	hypothetical protein
+IBPFAHIO_00682	CCA-adding enzyme
+IBPFAHIO_00683	putative protein YpjD
+IBPFAHIO_00684	hypothetical protein
+IBPFAHIO_00685	hypothetical protein
+IBPFAHIO_00686	Beta-barrel assembly-enhancing protease
+IBPFAHIO_00687	hypothetical protein
+IBPFAHIO_00688	DNA-binding protein HU 1
+IBPFAHIO_00689	GTPase Der
+IBPFAHIO_00690	30S ribosomal protein S1 
+IBPFAHIO_00691	Cytidylate kinase
+IBPFAHIO_00692	hypothetical protein
+IBPFAHIO_00693	ATP-dependent DNA helicase RecQ
+IBPFAHIO_00694	hypothetical protein
+IBPFAHIO_00695	hypothetical protein
+IBPFAHIO_00696	hypothetical protein
+IBPFAHIO_00697	Putative dipeptidase
+IBPFAHIO_00698	hypothetical protein
+IBPFAHIO_00699	Riboflavin transporter FmnP
+IBPFAHIO_00700	Ribosomal large subunit pseudouridine synthase B
+IBPFAHIO_00701	Segregation and condensation protein B
+IBPFAHIO_00702	Segregation and condensation protein A
+IBPFAHIO_00703	Protein RibT
+IBPFAHIO_00704	Tyrosine recombinase XerD
+IBPFAHIO_00705	hypothetical protein
+IBPFAHIO_00706	Ferric uptake regulation protein
+IBPFAHIO_00707	Conserved virulence factor B
+IBPFAHIO_00708	Mid-cell-anchored protein Z
+IBPFAHIO_00709	ISL3 family transposase ISEfa11
+IBPFAHIO_00710	RNA polymerase sigma factor SigA
+IBPFAHIO_00711	DNA primase
+IBPFAHIO_00712	Calcium-transporting ATPase CtpE
+IBPFAHIO_00713	hypothetical protein
+IBPFAHIO_00714	hypothetical protein
+IBPFAHIO_00715	AB hydrolase superfamily protein YdjP
+IBPFAHIO_00716	Phosphatidylglycerol lysyltransferase
+IBPFAHIO_00717	Elongation factor Tu
+IBPFAHIO_00718	hypothetical protein
+IBPFAHIO_00719	hypothetical protein
+IBPFAHIO_00720	Glyoxal reductase
+IBPFAHIO_00721	hypothetical protein
+IBPFAHIO_00722	hypothetical protein
+IBPFAHIO_00723	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+IBPFAHIO_00724	Acetyl-CoA acetyltransferase
+IBPFAHIO_00725	Hydroxymethylglutaryl-CoA synthase
+IBPFAHIO_00726	hypothetical protein
+IBPFAHIO_00727	Calcium-transporting ATPase
+IBPFAHIO_00728	Major cardiolipin synthase ClsA
+IBPFAHIO_00729	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+IBPFAHIO_00730	hypothetical protein
+IBPFAHIO_00731	Regulatory protein Spx
+IBPFAHIO_00732	hypothetical protein
+IBPFAHIO_00733	hypothetical protein
+IBPFAHIO_00734	Putative universal stress protein
+IBPFAHIO_00735	6-phospho-beta-glucosidase GmuD
+IBPFAHIO_00736	PTS system oligo-beta-mannoside-specific EIIC component
+IBPFAHIO_00737	HTH-type transcriptional regulator GmuR
+IBPFAHIO_00738	Putative ring-cleaving dioxygenase MhqA
+IBPFAHIO_00739	Putative hydrolase MhqD
+IBPFAHIO_00740	Methylthioribulose-1-phosphate dehydratase
+IBPFAHIO_00741	hypothetical protein
+IBPFAHIO_00742	PTS system galactitol-specific EIIC component
+IBPFAHIO_00743	hypothetical protein
+IBPFAHIO_00744	PTS system galactitol-specific EIIA component
+IBPFAHIO_00745	Lactose phosphotransferase system repressor
+IBPFAHIO_00746	Tagatose-6-phosphate kinase
+IBPFAHIO_00747	putative protein
+IBPFAHIO_00748	putative HTH-type transcriptional regulator
+IBPFAHIO_00749	hypothetical protein
+IBPFAHIO_00750	Arsenate reductase
+IBPFAHIO_00751	Transcriptional regulator ManR
+IBPFAHIO_00752	PTS system mannose-specific EIIBCA component
+IBPFAHIO_00753	PTS system mannose-specific EIIBCA component
+IBPFAHIO_00754	2-dehydro-3-deoxy-phosphogluconate aldolase
+IBPFAHIO_00755	D-glucosaminate-6-phosphate ammonia lyase
+IBPFAHIO_00756	Deacetylase
+IBPFAHIO_00757	hypothetical protein
+IBPFAHIO_00758	hypothetical protein
+IBPFAHIO_00759	hypothetical protein
+IBPFAHIO_00760	hypothetical protein
+IBPFAHIO_00761	IS110 family transposase ISSpn10
+IBPFAHIO_00762	hypothetical protein
+IBPFAHIO_00763	hypothetical protein
+IBPFAHIO_00764	IS30 family transposase IS1252
+IBPFAHIO_00765	hypothetical protein
+IBPFAHIO_00766	hypothetical protein
+IBPFAHIO_00767	hypothetical protein
+IBPFAHIO_00768	L-ribulose-5-phosphate 4-epimerase AraD
+IBPFAHIO_00769	L-ribulose-5-phosphate 3-epimerase UlaE
+IBPFAHIO_00770	3-keto-L-gulonate-6-phosphate decarboxylase SgbH
+IBPFAHIO_00771	hypothetical protein
+IBPFAHIO_00772	Ascorbate-specific PTS system EIIC component
+IBPFAHIO_00773	hypothetical protein
+IBPFAHIO_00774	putative L-ascorbate-6-phosphate lactonase UlaG
+IBPFAHIO_00775	Glucitol operon repressor
+IBPFAHIO_00776	hypothetical protein
+IBPFAHIO_00777	hypothetical protein
+IBPFAHIO_00778	hypothetical protein
+IBPFAHIO_00779	Lichenan permease IIC component
+IBPFAHIO_00780	PTS system glucose-specific EIICBA component
+IBPFAHIO_00781	Maltose-6'-phosphate glucosidase MalH
+IBPFAHIO_00782	Putative PTS system glucosamine-specific EIICBA component
+IBPFAHIO_00783	Carbohydrate deacetylase
+IBPFAHIO_00784	Transcription antiterminator LicT
+IBPFAHIO_00801	Adaptive-response sensory-kinase SasA
+IBPFAHIO_00802	Response regulator ArlR
+IBPFAHIO_00803	6-phosphogluconate dehydrogenase%2C decarboxylating
+IBPFAHIO_00804	50S ribosomal protein L32
+IBPFAHIO_00805	hypothetical protein
+IBPFAHIO_00806	HTH-type transcriptional regulator GltC
+IBPFAHIO_00807	Pyruvate kinase
+IBPFAHIO_00808	ATP-dependent 6-phosphofructokinase
+IBPFAHIO_00809	DNA polymerase III subunit alpha
+IBPFAHIO_00810	hypothetical protein
+IBPFAHIO_00811	Staphyloferrin B transporter
+IBPFAHIO_00812	ISL3 family transposase ISEfa5
+IBPFAHIO_00813	Guanine/hypoxanthine permease PbuO
+IBPFAHIO_00814	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+IBPFAHIO_00815	ISL3 family transposase IS1251
+IBPFAHIO_00816	Penicillin-binding protein 2B
+IBPFAHIO_00817	putative HTH-type transcriptional regulator YbbH
+IBPFAHIO_00818	Threonine--tRNA ligase
+IBPFAHIO_00819	putative tautomerase
+IBPFAHIO_00820	Zinc-transporting ATPase
+IBPFAHIO_00821	DNA helicase IV
+IBPFAHIO_00822	hypothetical protein
+IBPFAHIO_00823	ISL3 family transposase ISEfa11
+IBPFAHIO_00824	putative transcriptional regulatory protein YeeN
+IBPFAHIO_00825	tRNA(Met) cytidine acetate ligase
+IBPFAHIO_00826	2-methoxy-6-polyprenyl-1%2C4-benzoquinol methylase%2C mitochondrial
+IBPFAHIO_00827	Ribosomal silencing factor RsfS
+IBPFAHIO_00828	hypothetical protein
+IBPFAHIO_00829	Nicotinate-nucleotide adenylyltransferase
+IBPFAHIO_00830	RNA-binding protein
+IBPFAHIO_00831	putative protein YqeH
+IBPFAHIO_00832	hypothetical protein
+IBPFAHIO_00833	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+IBPFAHIO_00834	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+IBPFAHIO_00835	2-oxoglutarate carboxylase small subunit
+IBPFAHIO_00836	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+IBPFAHIO_00837	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+IBPFAHIO_00838	3-oxoacyl-[acyl-carrier-protein] synthase 2
+IBPFAHIO_00839	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+IBPFAHIO_00840	Malonyl CoA-acyl carrier protein transacylase
+IBPFAHIO_00841	Acyl carrier protein
+IBPFAHIO_00842	3-oxoacyl-[acyl-carrier-protein] synthase 3
+IBPFAHIO_00843	hypothetical protein
+IBPFAHIO_00844	UvrABC system protein C
+IBPFAHIO_00845	putative protein YkuJ
+IBPFAHIO_00846	2-hydroxy-3-oxopropionate reductase
+IBPFAHIO_00847	Alpha-monoglucosyldiacylglycerol synthase
+IBPFAHIO_00848	Processive diacylglycerol alpha-glucosyltransferase
+IBPFAHIO_00849	hypothetical protein
+IBPFAHIO_00850	Phosphoenolpyruvate-protein phosphotransferase
+IBPFAHIO_00851	Phosphocarrier protein HPr
+IBPFAHIO_00852	ATP-dependent Clp protease ATP-binding subunit ClpE
+IBPFAHIO_00853	hypothetical protein
+IBPFAHIO_00854	hypothetical protein
+IBPFAHIO_00855	Peptide chain release factor 3
+IBPFAHIO_00856	hypothetical protein
+IBPFAHIO_00857	Putative transport protein YhhT
+IBPFAHIO_00858	Acetyltransferase
+IBPFAHIO_00859	hypothetical protein
+IBPFAHIO_00860	Adenine DNA glycosylase
+IBPFAHIO_00861	Regulatory protein RecX
+IBPFAHIO_00862	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+IBPFAHIO_00863	Lytic chitin monooxygenase
+IBPFAHIO_00864	Tryptophan-rich protein TspO
+IBPFAHIO_00865	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+IBPFAHIO_00866	Cold shock protein CspD
+IBPFAHIO_00867	Superoxide dismutase [Mn]
+IBPFAHIO_00868	hypothetical protein
+IBPFAHIO_00869	Cadmium%2C cobalt and zinc/H(+)-K(+) antiporter
+IBPFAHIO_00870	hypothetical protein
+IBPFAHIO_00871	Glyoxylate/hydroxypyruvate reductase B
+IBPFAHIO_00872	IS66 family transposase ISRob1
+IBPFAHIO_00873	hypothetical protein
+IBPFAHIO_00874	hypothetical protein
+IBPFAHIO_00875	hypothetical protein
+IBPFAHIO_00876	Ktr system potassium uptake protein A
+IBPFAHIO_00877	Response regulator protein VraR
+IBPFAHIO_00878	Sensor histidine kinase LiaS
+IBPFAHIO_00879	hypothetical protein
+IBPFAHIO_00880	Transcription elongation factor GreA
+IBPFAHIO_00881	Endolytic murein transglycosylase
+IBPFAHIO_00882	Putative penicillin-binding protein PbpX
+IBPFAHIO_00883	IS1182 family transposase ISEfa7
+IBPFAHIO_00884	UDP-N-acetylglucosamine 4-epimerase
+IBPFAHIO_00885	hypothetical protein
+IBPFAHIO_00886	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1%2C4-N-acetyl-D-galactosaminyltransferase
+IBPFAHIO_00887	hypothetical protein
+IBPFAHIO_00888	hypothetical protein
+IBPFAHIO_00889	Glycosyltransferase GlyG
+IBPFAHIO_00890	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+IBPFAHIO_00891	dTDP-glucose 4%2C6-dehydratase
+IBPFAHIO_00892	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+IBPFAHIO_00893	hypothetical protein
+IBPFAHIO_00894	hypothetical protein
+IBPFAHIO_00895	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1%2C3-galactosyltransferase
+IBPFAHIO_00896	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1%2C3-galactosyltransferase
+IBPFAHIO_00897	hypothetical protein
+IBPFAHIO_00898	IS30 family transposase IS6770
+IBPFAHIO_00899	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+IBPFAHIO_00900	hypothetical protein
+IBPFAHIO_00901	Vitamin B12 import ATP-binding protein BtuD
+IBPFAHIO_00902	Teichoic acid translocation permease protein TagG
+IBPFAHIO_00903	hypothetical protein
+IBPFAHIO_00904	hypothetical protein
+IBPFAHIO_00905	dTDP-4-dehydrorhamnose reductase
+IBPFAHIO_00906	dTDP-glucose 4%2C6-dehydratase
+IBPFAHIO_00907	dTDP-4-dehydrorhamnose 3%2C5-epimerase
+IBPFAHIO_00908	Glucose-1-phosphate thymidylyltransferase 1
+IBPFAHIO_00909	hypothetical protein
+IBPFAHIO_00910	hypothetical protein
+IBPFAHIO_00911	hypothetical protein
+IBPFAHIO_00912	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+IBPFAHIO_00913	hypothetical protein
+IBPFAHIO_00914	Methionine aminopeptidase 1
+IBPFAHIO_00915	Flavodoxin
+IBPFAHIO_00916	hypothetical protein
+IBPFAHIO_00917	Aminopeptidase PepS
+IBPFAHIO_00918	hypothetical protein
+IBPFAHIO_00919	hypothetical protein
+IBPFAHIO_00920	hypothetical protein
+IBPFAHIO_00921	hypothetical protein
+IBPFAHIO_00922	IS3 family transposase ISEnfa3
+IBPFAHIO_00923	IS3 family transposase ISEfa8
+IBPFAHIO_00924	IS3 family transposase ISEfa8
+IBPFAHIO_00926	hypothetical protein
+IBPFAHIO_00927	hypothetical protein
+IBPFAHIO_00928	hypothetical protein
+IBPFAHIO_00929	hypothetical protein
+IBPFAHIO_00930	hypothetical protein
+IBPFAHIO_00931	hypothetical protein
+IBPFAHIO_00932	hypothetical protein
+IBPFAHIO_00933	hypothetical protein
+IBPFAHIO_00934	hypothetical protein
+IBPFAHIO_00935	hypothetical protein
+IBPFAHIO_00936	hypothetical protein
+IBPFAHIO_00937	hypothetical protein
+IBPFAHIO_00938	hypothetical protein
+IBPFAHIO_00939	hypothetical protein
+IBPFAHIO_00940	hypothetical protein
+IBPFAHIO_00941	hypothetical protein
+IBPFAHIO_00942	hypothetical protein
+IBPFAHIO_00943	hypothetical protein
+IBPFAHIO_00944	hypothetical protein
+IBPFAHIO_00945	hypothetical protein
+IBPFAHIO_00946	hypothetical protein
+IBPFAHIO_00947	hypothetical protein
+IBPFAHIO_00948	hypothetical protein
+IBPFAHIO_00949	hypothetical protein
+IBPFAHIO_00950	hypothetical protein
+IBPFAHIO_00951	hypothetical protein
+IBPFAHIO_00952	hypothetical protein
+IBPFAHIO_00953	hypothetical protein
+IBPFAHIO_00954	hypothetical protein
+IBPFAHIO_00955	hypothetical protein
+IBPFAHIO_00956	hypothetical protein
+IBPFAHIO_00957	hypothetical protein
+IBPFAHIO_00958	hypothetical protein
+IBPFAHIO_00959	hypothetical protein
+IBPFAHIO_00960	hypothetical protein
+IBPFAHIO_00961	hypothetical protein
+IBPFAHIO_00962	hypothetical protein
+IBPFAHIO_00963	hypothetical protein
+IBPFAHIO_00964	hypothetical protein
+IBPFAHIO_00965	hypothetical protein
+IBPFAHIO_00966	hypothetical protein
+IBPFAHIO_00967	hypothetical protein
+IBPFAHIO_00968	hypothetical protein
+IBPFAHIO_00969	hypothetical protein
+IBPFAHIO_00970	hypothetical protein
+IBPFAHIO_00971	hypothetical protein
+IBPFAHIO_00972	hypothetical protein
+IBPFAHIO_00973	hypothetical protein
+IBPFAHIO_00974	hypothetical protein
+IBPFAHIO_00975	hypothetical protein
+IBPFAHIO_00976	hypothetical protein
+IBPFAHIO_00977	hypothetical protein
+IBPFAHIO_00978	hypothetical protein
+IBPFAHIO_00979	hypothetical protein
+IBPFAHIO_00980	hypothetical protein
+IBPFAHIO_00981	hypothetical protein
+IBPFAHIO_00982	hypothetical protein
+IBPFAHIO_00983	hypothetical protein
+IBPFAHIO_00984	hypothetical protein
+IBPFAHIO_00985	hypothetical protein
+IBPFAHIO_00986	hypothetical protein
+IBPFAHIO_00987	hypothetical protein
+IBPFAHIO_00988	hypothetical protein
+IBPFAHIO_00989	hypothetical protein
+IBPFAHIO_00990	hypothetical protein
+IBPFAHIO_00991	Tyrosine recombinase XerC
+IBPFAHIO_00992	60 kDa chaperonin
+IBPFAHIO_00993	10 kDa chaperonin
+IBPFAHIO_00994	Membrane-embedded CAAX protease MroQ
+IBPFAHIO_00995	PTS system oligo-beta-mannoside-specific EIIC component
+IBPFAHIO_00996	hypothetical protein
+IBPFAHIO_00997	Putative metallo-hydrolase YycJ
+IBPFAHIO_00998	hypothetical protein
+IBPFAHIO_00999	hypothetical protein
+IBPFAHIO_01000	Sensor histidine kinase WalK
+IBPFAHIO_01001	Transcriptional regulatory protein WalR
+IBPFAHIO_01002	DegV domain-containing protein
+IBPFAHIO_01003	hypothetical protein
+IBPFAHIO_01005	IS30 family transposase IS1252
+IBPFAHIO_01006	IS30 family transposase IS1252
+IBPFAHIO_01007	hypothetical protein
+IBPFAHIO_01008	hypothetical protein
+IBPFAHIO_01009	Bacteriocin piscicolin-126
+IBPFAHIO_01010	hypothetical protein
+IBPFAHIO_01011	Glycine betaine transport ATP-binding protein OpuAA
+IBPFAHIO_01012	hypothetical protein
+IBPFAHIO_01013	hypothetical protein
+IBPFAHIO_01014	Fe(2+) transporter FeoB
+IBPFAHIO_01015	hypothetical protein
+IBPFAHIO_01016	Glutaredoxin-like protein NrdH
+IBPFAHIO_01017	Ribonucleoside-diphosphate reductase subunit alpha 2
+IBPFAHIO_01018	Ribonucleoside-diphosphate reductase 2 subunit beta
+IBPFAHIO_01019	hypothetical protein
+IBPFAHIO_01020	Protein SapB
+IBPFAHIO_01021	Glucosamine-6-phosphate deaminase
+IBPFAHIO_01022	putative ABC transporter ATP-binding protein YbiT
+IBPFAHIO_01023	IS982 family transposase ISEfm1
+IBPFAHIO_01024	putative transporter
+IBPFAHIO_01025	hypothetical protein
+IBPFAHIO_01026	50S ribosomal protein L7/L12
+IBPFAHIO_01027	50S ribosomal protein L10
+IBPFAHIO_01028	50S ribosomal protein L1
+IBPFAHIO_01029	50S ribosomal protein L11
+IBPFAHIO_01030	L-serine dehydratase%2C beta chain
+IBPFAHIO_01031	L-serine dehydratase%2C alpha chain
+IBPFAHIO_01032	Lactate 2-monooxygenase
+IBPFAHIO_01033	hypothetical protein
+IBPFAHIO_01034	Transcription termination/antitermination protein NusG
+IBPFAHIO_01035	Protein translocase subunit SecE
+IBPFAHIO_01036	50S ribosomal protein L33 3
+IBPFAHIO_01037	hypothetical protein
+IBPFAHIO_01038	Queuosine precursor transporter QueT
+IBPFAHIO_01039	Putative lipid kinase YtlR
+IBPFAHIO_01040	hypothetical protein
+IBPFAHIO_01041	hypothetical protein
+IBPFAHIO_01042	Linearmycin resistance ATP-binding protein LnrL
+IBPFAHIO_01043	hypothetical protein
+IBPFAHIO_01044	Transcriptional regulatory protein LnrK
+IBPFAHIO_01045	hypothetical protein
+IBPFAHIO_01046	ATP-dependent RecD-like DNA helicase
+IBPFAHIO_01047	Phosphoserine phosphatase 1
+IBPFAHIO_01048	tRNA (cytidine(34)-2'-O)-methyltransferase
+IBPFAHIO_01049	23S rRNA (guanine(745)-N(1))-methyltransferase
+IBPFAHIO_01050	Copper homeostasis protein CutC
+IBPFAHIO_01051	Magnesium transporter MgtE
+IBPFAHIO_01052	hypothetical protein
+IBPFAHIO_01053	NAD kinase 1
+IBPFAHIO_01054	GTP pyrophosphokinase YjbM
+IBPFAHIO_01055	Putative triphosphatase YjbK
+IBPFAHIO_01056	hypothetical protein
+IBPFAHIO_01057	ISL3 family transposase IS1251
+IBPFAHIO_01058	Oligoendopeptidase F%2C plasmid
+IBPFAHIO_01059	hypothetical protein
+IBPFAHIO_01060	Adapter protein MecA 1
+IBPFAHIO_01061	Regulatory protein Spx
+IBPFAHIO_01062	Putative HAD-hydrolase YfnB
+IBPFAHIO_01063	RNA polymerase-associated protein RapA
+IBPFAHIO_01064	hypothetical protein
+IBPFAHIO_01065	hypothetical protein
+IBPFAHIO_01066	Nuclease SbcCD subunit D
+IBPFAHIO_01067	1-acyl-sn-glycerol-3-phosphate acyltransferase
+IBPFAHIO_01068	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+IBPFAHIO_01069	hypothetical protein
+IBPFAHIO_01070	O-acetyltransferase OatA
+IBPFAHIO_01071	hypothetical protein
+IBPFAHIO_01072	Aspartate--tRNA ligase
+IBPFAHIO_01073	Histidine--tRNA ligase
+IBPFAHIO_01074	Aldo-keto reductase IolS
+IBPFAHIO_01075	Fatty-acid peroxygenase
+IBPFAHIO_01076	D-aminoacyl-tRNA deacylase
+IBPFAHIO_01077	GTP pyrophosphokinase
+IBPFAHIO_01078	Ribosomal RNA small subunit methyltransferase E
+IBPFAHIO_01079	Ribosomal protein L11 methyltransferase
+IBPFAHIO_01080	hypothetical protein
+IBPFAHIO_01081	Putative 3-methyladenine DNA glycosylase
+IBPFAHIO_01082	putative AAA domain-containing protein
+IBPFAHIO_01083	hypothetical protein
+IBPFAHIO_01084	Putative universal stress protein
+IBPFAHIO_01085	hypothetical protein
+IBPFAHIO_01086	putative ABC transporter ATP-binding protein YbiT
+IBPFAHIO_01087	Acetate kinase
+IBPFAHIO_01088	hypothetical protein
+IBPFAHIO_01089	hypothetical protein
+IBPFAHIO_01090	hypothetical protein
+IBPFAHIO_01091	hypothetical protein
+IBPFAHIO_01092	hypothetical protein
+IBPFAHIO_01093	hypothetical protein
+IBPFAHIO_01094	hypothetical protein
+IBPFAHIO_01095	ComG operon protein 1
+IBPFAHIO_01096	Adenine deaminase
+IBPFAHIO_01097	tRNA (guanine-N(7)-)-methyltransferase
+IBPFAHIO_01098	Thiamine kinase
+IBPFAHIO_01099	hypothetical protein
+IBPFAHIO_01100	ABC-type transporter ATP-binding protein EcsA
+IBPFAHIO_01101	Protein hit
+IBPFAHIO_01102	hypothetical protein
+IBPFAHIO_01103	Foldase protein PrsA
+IBPFAHIO_01104	3'-5' exoribonuclease YhaM
+IBPFAHIO_01105	hypothetical protein
+IBPFAHIO_01106	hypothetical protein
+IBPFAHIO_01107	Phosphatase YwpJ
+IBPFAHIO_01108	hypothetical protein
+IBPFAHIO_01109	putative symporter YjmB
+IBPFAHIO_01110	Beta-xylosidase
+IBPFAHIO_01111	hypothetical protein
+IBPFAHIO_01112	Pectinesterase A
+IBPFAHIO_01113	hypothetical protein
+IBPFAHIO_01114	hypothetical protein
+IBPFAHIO_01115	Unsaturated rhamnogalacturonyl hydrolase YteR
+IBPFAHIO_01116	Lipoprotein LipO
+IBPFAHIO_01117	hypothetical protein
+IBPFAHIO_01118	putative multiple-sugar transport system permease YteP
+IBPFAHIO_01119	hypothetical protein
+IBPFAHIO_01120	L-arabinose transport system permease protein AraQ
+IBPFAHIO_01121	HTH-type transcriptional regulator YesS
+IBPFAHIO_01122	putative HTH-type transcriptional repressor ExuR
+IBPFAHIO_01123	Altronate oxidoreductase
+IBPFAHIO_01124	Altronate dehydratase
+IBPFAHIO_01125	Uronate isomerase
+IBPFAHIO_01126	Rhamnogalacturonan acetylesterase RhgT
+IBPFAHIO_01127	hypothetical protein
+IBPFAHIO_01128	Putative multidrug export ATP-binding/permease protein
+IBPFAHIO_01129	hypothetical protein
+IBPFAHIO_01130	Penicillin-binding protein 1F
+IBPFAHIO_01131	Ribosomal large subunit pseudouridine synthase D
+IBPFAHIO_01132	Putative fructokinase
+IBPFAHIO_01133	Mannosylglycerate hydrolase
+IBPFAHIO_01134	hypothetical protein
+IBPFAHIO_01135	Arabinose metabolism transcriptional repressor
+IBPFAHIO_01136	hypothetical protein
+IBPFAHIO_01137	HTH-type transcriptional activator RhaR
+IBPFAHIO_01138	hypothetical protein
+IBPFAHIO_01139	hypothetical protein
+IBPFAHIO_01140	hypothetical protein
+IBPFAHIO_01141	L-arabinose transport system permease protein AraQ
+IBPFAHIO_01142	putative multiple-sugar transport system permease YteP
+IBPFAHIO_01143	Ribosomal large subunit pseudouridine synthase B
+IBPFAHIO_01144	Lipid II flippase MurJ
+IBPFAHIO_01145	hypothetical protein
+IBPFAHIO_01146	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+IBPFAHIO_01147	Lichenan permease IIC component
+IBPFAHIO_01148	hypothetical protein
+IBPFAHIO_01149	Lichenan-specific phosphotransferase enzyme IIA component
+IBPFAHIO_01150	putative licABCH operon regulator
+IBPFAHIO_01151	hypothetical protein
+IBPFAHIO_01152	hypothetical protein
+IBPFAHIO_01153	hypothetical protein
+IBPFAHIO_01154	hypothetical protein
+IBPFAHIO_01155	hypothetical protein
+IBPFAHIO_01156	hypothetical protein
+IBPFAHIO_01157	hypothetical protein
+IBPFAHIO_01158	putative ABC transporter ATP-binding protein
+IBPFAHIO_01159	putative ABC transporter ATP-binding protein
+IBPFAHIO_01160	hypothetical protein
+IBPFAHIO_01161	Leucine--tRNA ligase
+IBPFAHIO_01162	Muramidase-2
+IBPFAHIO_01163	hypothetical protein
+IBPFAHIO_01164	hypothetical protein
+IBPFAHIO_01165	hypothetical protein
+IBPFAHIO_01166	putative ABC transporter ATP-binding protein
+IBPFAHIO_01167	putative ABC transporter ATP-binding protein
+IBPFAHIO_01168	hypothetical protein
+IBPFAHIO_01169	hypothetical protein
+IBPFAHIO_01170	Multidrug resistance protein 3
+IBPFAHIO_01171	ISL3 family transposase ISEfa5
+IBPFAHIO_01172	S-adenosylmethionine synthase
+IBPFAHIO_01199	ISL3 family transposase ISEfa11
+IBPFAHIO_01200	Lysine--tRNA ligase
+IBPFAHIO_01201	tRNA-dihydrouridine synthase B
+IBPFAHIO_01202	33 kDa chaperonin
+IBPFAHIO_01203	ATP-dependent zinc metalloprotease FtsH
+IBPFAHIO_01204	Hypoxanthine-guanine phosphoribosyltransferase
+IBPFAHIO_01205	tRNA(Ile)-lysidine synthase
+IBPFAHIO_01206	Polyribonucleotide nucleotidyltransferase
+IBPFAHIO_01207	hypothetical protein
+IBPFAHIO_01208	hypothetical protein
+IBPFAHIO_01209	Lipid II flippase MurJ
+IBPFAHIO_01210	Transcription-repair-coupling factor
+IBPFAHIO_01211	Peptidyl-tRNA hydrolase
+IBPFAHIO_01212	L-lactate dehydrogenase
+IBPFAHIO_01213	hypothetical protein
+IBPFAHIO_01214	putative transcriptional regulatory protein
+IBPFAHIO_01215	hypothetical protein
+IBPFAHIO_01216	Oligoendopeptidase F%2C plasmid
+IBPFAHIO_01217	hypothetical protein
+IBPFAHIO_01218	hypothetical protein
+IBPFAHIO_01219	Cell shape-determining protein MreC
+IBPFAHIO_01220	Thiamine pyrophosphokinase
+IBPFAHIO_01221	Ribulose-phosphate 3-epimerase
+IBPFAHIO_01222	Small ribosomal subunit biogenesis GTPase RsgA
+IBPFAHIO_01223	Serine/threonine-protein kinase PrkC
+IBPFAHIO_01224	Serine/threonine phosphatase stp
+IBPFAHIO_01225	Ribosomal RNA small subunit methyltransferase B
+IBPFAHIO_01226	Methionyl-tRNA formyltransferase
+IBPFAHIO_01227	Peptide deformylase
+IBPFAHIO_01228	primosomal protein N'
+IBPFAHIO_01229	DNA-directed RNA polymerase subunit omega
+IBPFAHIO_01230	Guanylate kinase
+IBPFAHIO_01231	hypothetical protein
+IBPFAHIO_01232	hypothetical protein
+IBPFAHIO_01233	hypothetical protein
+IBPFAHIO_01234	hypothetical protein
+IBPFAHIO_01235	hypothetical protein
+IBPFAHIO_01236	Thiamine transporter ThiT
+IBPFAHIO_01237	Ribose-phosphate pyrophosphokinase
+IBPFAHIO_01238	Bifunctional protein GlmU
+IBPFAHIO_01239	Pur operon repressor
+IBPFAHIO_01240	High-affinity zinc uptake system membrane protein ZnuB
+IBPFAHIO_01241	High-affinity zinc uptake system ATP-binding protein ZnuC
+IBPFAHIO_01242	High-affinity zinc uptake system binding-protein ZnuA
+IBPFAHIO_01243	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+IBPFAHIO_01244	Phosphatidylglycerol lysyltransferase
+IBPFAHIO_01245	Pyrroline-5-carboxylate reductase
+IBPFAHIO_01246	Ribonuclease Y
+IBPFAHIO_01247	Protein RecA
+IBPFAHIO_01248	Putative competence-damage inducible protein
+IBPFAHIO_01249	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+IBPFAHIO_01250	hypothetical protein
+IBPFAHIO_01251	hypothetical protein
+IBPFAHIO_01252	hypothetical protein
+IBPFAHIO_01253	Large-conductance mechanosensitive channel
+IBPFAHIO_01254	Protein ElaA
+IBPFAHIO_01255	Protein Veg
+IBPFAHIO_01256	RNA polymerase sigma-H factor
+IBPFAHIO_01257	hypothetical protein
+IBPFAHIO_01258	Putative TrmH family tRNA/rRNA methyltransferase
+IBPFAHIO_01259	Mini-ribonuclease 3
+IBPFAHIO_01260	Cysteine--tRNA ligase
+IBPFAHIO_01261	Serine acetyltransferase
+IBPFAHIO_01262	Glutamate--tRNA ligase
+IBPFAHIO_01263	putative PIN and TRAM-domain containing protein YacL
+IBPFAHIO_01264	DNA repair protein RadA
+IBPFAHIO_01265	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+IBPFAHIO_01266	Glutamate 5-kinase 1
+IBPFAHIO_01267	Gamma-glutamyl phosphate reductase
+IBPFAHIO_01268	hypothetical protein
+IBPFAHIO_01269	hypothetical protein
+IBPFAHIO_01270	Multidrug efflux protein YfmO
+IBPFAHIO_01271	Multidrug efflux protein YfmO
+IBPFAHIO_01272	hypothetical protein
+IBPFAHIO_01273	hypothetical protein
+IBPFAHIO_01274	ABC-F type ribosomal protection protein Msr(C)
+IBPFAHIO_01275	Putative NAD(P)H nitroreductase YodC
+IBPFAHIO_01276	Putative NAD(P)H nitroreductase YodC
+IBPFAHIO_01277	hypothetical protein
+IBPFAHIO_01278	hypothetical protein
+IBPFAHIO_01279	putative oxidoreductase
+IBPFAHIO_01280	Putative acetyltransferase
+IBPFAHIO_01281	HTH-type transcriptional regulator HdfR
+IBPFAHIO_01282	Levansucrase and sucrase synthesis operon antiterminator
+IBPFAHIO_01283	PTS system glucose-specific EIICBA component
+IBPFAHIO_01284	hypothetical protein
+IBPFAHIO_01285	Quinone oxidoreductase 2
+IBPFAHIO_01286	Putative HTH-type transcriptional regulator YwnA
+IBPFAHIO_01287	hypothetical protein
+IBPFAHIO_01288	hypothetical protein
+IBPFAHIO_01289	hypothetical protein
+IBPFAHIO_01290	Xylulose kinase
+IBPFAHIO_01291	Inner membrane protein YgaZ
+IBPFAHIO_01292	hypothetical protein
+IBPFAHIO_01293	Zinc-type alcohol dehydrogenase-like protein
+IBPFAHIO_01294	putative tRNA-dihydrouridine synthase
+IBPFAHIO_01295	Inner membrane transport permease YadH
+IBPFAHIO_01296	putative ABC transporter ATP-binding protein YadG
+IBPFAHIO_01297	hypothetical protein
+IBPFAHIO_01298	DNA mismatch repair protein MutS
+IBPFAHIO_01299	Alkaline phosphatase synthesis sensor protein PhoR
+IBPFAHIO_01300	Response regulator ArlR
+IBPFAHIO_01301	hypothetical protein
+IBPFAHIO_01302	Bacitracin transport ATP-binding protein BcrA
+IBPFAHIO_01303	hypothetical protein
+IBPFAHIO_01304	hypothetical protein
+IBPFAHIO_01305	hypothetical protein
+IBPFAHIO_01306	hypothetical protein
+IBPFAHIO_01307	hypothetical protein
+IBPFAHIO_01308	hypothetical protein
+IBPFAHIO_01309	hypothetical protein
+IBPFAHIO_01310	hypothetical protein
+IBPFAHIO_01311	hypothetical protein
+IBPFAHIO_01312	hypothetical protein
+IBPFAHIO_01313	Modification methylase HhaI
+IBPFAHIO_01314	hypothetical protein
+IBPFAHIO_01315	hypothetical protein
+IBPFAHIO_01316	hypothetical protein
+IBPFAHIO_01317	hypothetical protein
+IBPFAHIO_01318	hypothetical protein
+IBPFAHIO_01319	hypothetical protein
+IBPFAHIO_01320	hypothetical protein
+IBPFAHIO_01321	hypothetical protein
+IBPFAHIO_01322	hypothetical protein
+IBPFAHIO_01323	hypothetical protein
+IBPFAHIO_01324	hypothetical protein
+IBPFAHIO_01325	Riboflavin transporter RibZ
+IBPFAHIO_01326	hypothetical protein
+IBPFAHIO_01327	hypothetical protein
+IBPFAHIO_01328	NADH oxidase
+IBPFAHIO_01329	hypothetical protein
+IBPFAHIO_01330	hypothetical protein
+IBPFAHIO_01331	HTH-type transcriptional activator RhaR
+IBPFAHIO_01332	hypothetical protein
+IBPFAHIO_01333	hypothetical protein
+IBPFAHIO_01334	hypothetical protein
+IBPFAHIO_01335	hypothetical protein
+IBPFAHIO_01336	ISL3 family transposase IS1251
+IBPFAHIO_01337	hypothetical protein
+IBPFAHIO_01338	hypothetical protein
+IBPFAHIO_01339	hypothetical protein
+IBPFAHIO_01340	hypothetical protein
+IBPFAHIO_01341	P-loop guanosine triphosphatase YjiA
+IBPFAHIO_01342	50S ribosomal protein L33 1
+IBPFAHIO_01343	hypothetical protein
+IBPFAHIO_01344	50S ribosomal protein L32
+IBPFAHIO_01345	Alternate 30S ribosomal protein S14
+IBPFAHIO_01346	Beta-(1-->2)glucan export ATP-binding/permease protein NdvA
+IBPFAHIO_01347	Vitamin B12 import ATP-binding protein BtuD
+IBPFAHIO_01348	hypothetical protein
+IBPFAHIO_01349	Vitamin B12 import ATP-binding protein BtuD
+IBPFAHIO_01350	Putative HMP/thiamine import ATP-binding protein YkoD
+IBPFAHIO_01351	hypothetical protein
+IBPFAHIO_01352	hypothetical protein
+IBPFAHIO_01353	hypothetical protein
+IBPFAHIO_01354	hypothetical protein
+IBPFAHIO_01355	Manganese ABC transporter substrate-binding lipoprotein
+IBPFAHIO_01356	Manganese transport system membrane protein MntD
+IBPFAHIO_01357	hypothetical protein
+IBPFAHIO_01358	IS110 family transposase ISBth13
+IBPFAHIO_01359	Manganese import ATP-binding protein ScaC
+IBPFAHIO_01360	Tyrosine recombinase XerC
+IBPFAHIO_01361	30S ribosomal protein S9
+IBPFAHIO_01362	50S ribosomal protein L13
+IBPFAHIO_01363	DNA protection during starvation protein
+IBPFAHIO_01364	Xylulose kinase
+IBPFAHIO_01365	Type 4 prepilin-like proteins leader peptide-processing enzyme
+IBPFAHIO_01366	Peptide methionine sulfoxide reductase MsrA
+IBPFAHIO_01367	Beta-phosphoglucomutase
+IBPFAHIO_01368	Glycerate kinase
+IBPFAHIO_01369	Kojibiose phosphorylase
+IBPFAHIO_01370	Putative UDP-kanosamine synthase oxidoreductase subunit
+IBPFAHIO_01371	hypothetical protein
+IBPFAHIO_01372	L-threonine 3-dehydrogenase
+IBPFAHIO_01373	Inner membrane ABC transporter permease protein YcjP
+IBPFAHIO_01374	Inner membrane ABC transporter permease protein YcjO
+IBPFAHIO_01375	hypothetical protein
+IBPFAHIO_01376	Glucosylglycerate phosphorylase
+IBPFAHIO_01377	HTH-type transcriptional repressor PurR
+IBPFAHIO_01378	DNA-directed RNA polymerase subunit beta'
+IBPFAHIO_01379	DNA-directed RNA polymerase subunit beta
+IBPFAHIO_01380	hypothetical protein
+IBPFAHIO_01381	hypothetical protein
+IBPFAHIO_01382	ABC transporter ATP-binding protein YxdL
+IBPFAHIO_01383	Bifunctional ligase/repressor BirA
+IBPFAHIO_01384	hypothetical protein
+IBPFAHIO_01385	hypothetical protein
+IBPFAHIO_01386	Heptaprenyl diphosphate synthase component 2
+IBPFAHIO_01387	hypothetical protein
+IBPFAHIO_01388	hypothetical protein
+IBPFAHIO_01389	Nitric oxide reductase FlRd-NAD(+) reductase
+IBPFAHIO_01390	hypothetical protein
+IBPFAHIO_01391	FAD:protein FMN transferase
+IBPFAHIO_01392	1%2C4-dihydroxy-2-naphthoate octaprenyltransferase
+IBPFAHIO_01393	Glutathione reductase
+IBPFAHIO_01394	hypothetical protein
+IBPFAHIO_01395	23S rRNA 5-hydroxycytidine synthase
+IBPFAHIO_01396	Negative regulator of genetic competence ClpC/MecB
+IBPFAHIO_01397	Transcriptional regulator CtsR
+IBPFAHIO_01407	Transcriptional regulatory protein SrrA
+IBPFAHIO_01408	Sensor histidine kinase RcsC
+IBPFAHIO_01409	Serine--tRNA ligase
+IBPFAHIO_01410	Inosine-5'-monophosphate dehydrogenase
+IBPFAHIO_01411	hypothetical protein
+IBPFAHIO_01412	Ribosome-binding ATPase YchF
+IBPFAHIO_01413	hypothetical protein
+IBPFAHIO_01414	Stage 0 sporulation protein J
+IBPFAHIO_01415	Sporulation initiation inhibitor protein Soj
+IBPFAHIO_01416	Ribosomal RNA small subunit methyltransferase G
+IBPFAHIO_01417	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+IBPFAHIO_01418	tRNA modification GTPase MnmE
+IBPFAHIO_01419	tRNA modification GTPase MnmE
+IBPFAHIO_01420	hypothetical protein
+IBPFAHIO_01421	hypothetical protein
+IBPFAHIO_01422	Membrane protein insertase MisCA
+IBPFAHIO_01423	Ribonuclease P protein component
+IBPFAHIO_01424	50S ribosomal protein L34
+IBPFAHIO_01425	Chromosomal replication initiator protein DnaA
+IBPFAHIO_01426	Beta sliding clamp
+IBPFAHIO_01427	hypothetical protein
+IBPFAHIO_01428	DNA replication and repair protein RecF
+IBPFAHIO_01429	DNA gyrase subunit B
+IBPFAHIO_01430	DNA gyrase subunit A
+IBPFAHIO_01431	30S ribosomal protein S6
+IBPFAHIO_01432	Single-stranded DNA-binding protein
+IBPFAHIO_01433	30S ribosomal protein S18
+IBPFAHIO_01434	hypothetical protein
+IBPFAHIO_01435	Cyclic-di-AMP phosphodiesterase GdpP
+IBPFAHIO_01436	50S ribosomal protein L9
+IBPFAHIO_01437	Replicative DNA helicase
+IBPFAHIO_01438	Adenylosuccinate synthetase
+IBPFAHIO_01439	DegV domain-containing protein
+IBPFAHIO_01440	putative ABC transporter ATP-binding protein YbiT
+IBPFAHIO_01441	hypothetical protein
+IBPFAHIO_01442	Pyruvate oxidase
+IBPFAHIO_01443	Zinc transporter ZupT
+IBPFAHIO_01444	hypothetical protein
+IBPFAHIO_01445	Potassium channel
+IBPFAHIO_01446	hypothetical protein
+IBPFAHIO_01447	hypothetical protein
+IBPFAHIO_01448	hypothetical protein
+IBPFAHIO_01449	hypothetical protein
+IBPFAHIO_01450	hypothetical protein
+IBPFAHIO_01451	hypothetical protein
+IBPFAHIO_01452	hypothetical protein
+IBPFAHIO_01453	hypothetical protein
+IBPFAHIO_01454	Beta-phosphoglucomutase
+IBPFAHIO_01455	Lactose phosphotransferase system repressor
+IBPFAHIO_01456	6-phospho-beta-galactosidase
+IBPFAHIO_01457	PTS system lactose-specific EIIA component
+IBPFAHIO_01458	PTS system lactose-specific EIICB component
+IBPFAHIO_01459	hypothetical protein
+IBPFAHIO_01460	GMP synthase [glutamine-hydrolyzing]
+IBPFAHIO_01461	Pantothenate kinase
+IBPFAHIO_01462	Ribosomal RNA small subunit methyltransferase C
+IBPFAHIO_01463	HTH-type transcriptional regulator DegA
+IBPFAHIO_01464	Pyrimidine-nucleoside phosphorylase
+IBPFAHIO_01465	Deoxyribose-phosphate aldolase
+IBPFAHIO_01466	Cytidine deaminase
+IBPFAHIO_01467	Membrane lipoprotein TmpC
+IBPFAHIO_01468	Galactose/methyl galactoside import ATP-binding protein MglA
+IBPFAHIO_01469	hypothetical protein
+IBPFAHIO_01470	hypothetical protein
+IBPFAHIO_01471	Phosphopentomutase
+IBPFAHIO_01472	Purine nucleoside phosphorylase 1
+IBPFAHIO_01473	Purine nucleoside phosphorylase DeoD-type
+IBPFAHIO_01474	2%2C3-bisphosphoglycerate-dependent phosphoglycerate mutase
+IBPFAHIO_01475	DNA-invertase hin
+IBPFAHIO_01476	Ribose-5-phosphate isomerase A
+IBPFAHIO_01477	30S ribosomal protein S12
+IBPFAHIO_01478	30S ribosomal protein S7
+IBPFAHIO_01479	Elongation factor G
+IBPFAHIO_01480	Elongation factor Tu
+IBPFAHIO_01481	30S ribosomal protein S10
+IBPFAHIO_01482	50S ribosomal protein L3
+IBPFAHIO_01483	50S ribosomal protein L4
+IBPFAHIO_01484	50S ribosomal protein L23
+IBPFAHIO_01485	50S ribosomal protein L2
+IBPFAHIO_01486	30S ribosomal protein S19
+IBPFAHIO_01487	50S ribosomal protein L22
+IBPFAHIO_01488	30S ribosomal protein S3
+IBPFAHIO_01489	50S ribosomal protein L16
+IBPFAHIO_01490	50S ribosomal protein L29
+IBPFAHIO_01491	30S ribosomal protein S17
+IBPFAHIO_01492	50S ribosomal protein L14
+IBPFAHIO_01493	50S ribosomal protein L24
+IBPFAHIO_01494	50S ribosomal protein L5
+IBPFAHIO_01495	30S ribosomal protein S14 type Z
+IBPFAHIO_01496	30S ribosomal protein S8
+IBPFAHIO_01497	50S ribosomal protein L6
+IBPFAHIO_01498	50S ribosomal protein L18
+IBPFAHIO_01499	30S ribosomal protein S5
+IBPFAHIO_01500	50S ribosomal protein L30
+IBPFAHIO_01501	50S ribosomal protein L15
+IBPFAHIO_01502	Protein translocase subunit SecY
+IBPFAHIO_01503	Adenylate kinase
+IBPFAHIO_01504	Translation initiation factor IF-1
+IBPFAHIO_01505	50S ribosomal protein L36
+IBPFAHIO_01506	30S ribosomal protein S13
+IBPFAHIO_01507	30S ribosomal protein S11
+IBPFAHIO_01508	DNA-directed RNA polymerase subunit alpha
+IBPFAHIO_01509	50S ribosomal protein L17
+IBPFAHIO_01510	Energy-coupling factor transporter ATP-binding protein EcfA1
+IBPFAHIO_01511	Energy-coupling factor transporter ATP-binding protein EcfA2
+IBPFAHIO_01512	Energy-coupling factor transporter transmembrane protein EcfT
+IBPFAHIO_01513	tRNA pseudouridine synthase A
+IBPFAHIO_01514	hypothetical protein
+IBPFAHIO_01515	HTH-type transcriptional regulator LrpC
+IBPFAHIO_01516	IS256 family transposase IS256
+IBPFAHIO_01517	IS256 family transposase ISEf1
+IBPFAHIO_01518	hypothetical protein
+IBPFAHIO_01519	hypothetical protein
+IBPFAHIO_01520	hypothetical protein
+IBPFAHIO_01521	IS982 family transposase ISEfm1
+IBPFAHIO_01522	hypothetical protein
+IBPFAHIO_01523	50S ribosomal protein L28
+IBPFAHIO_01524	putative protein
+IBPFAHIO_01525	putative protein
+IBPFAHIO_01526	ATP-dependent DNA helicase RecG
+IBPFAHIO_01527	Phosphate acyltransferase
+IBPFAHIO_01528	Acyl carrier protein
+IBPFAHIO_01529	IS110 family transposase ISBth13
+IBPFAHIO_01530	Oligopeptide transport ATP-binding protein OppD
+IBPFAHIO_01531	Oligopeptide transport ATP-binding protein OppF
+IBPFAHIO_01532	Glutathione transport system permease protein GsiC
+IBPFAHIO_01533	hypothetical protein
+IBPFAHIO_01534	hypothetical protein
+IBPFAHIO_01535	Ribonuclease 3
+IBPFAHIO_01536	Chromosome partition protein Smc
+IBPFAHIO_01537	Sugar phosphatase YidA
+IBPFAHIO_01538	Signal recognition particle receptor FtsY
+IBPFAHIO_01539	Glutathione biosynthesis bifunctional protein GshAB
+IBPFAHIO_01540	putative protein YueI
+IBPFAHIO_01541	Petrobactin import system permease protein YclN
+IBPFAHIO_01542	Petrobactin import system permease protein YclO
+IBPFAHIO_01543	Petrobactin import ATP-binding protein YclP
+IBPFAHIO_01544	Petrobactin-binding protein YclQ
+IBPFAHIO_01545	hypothetical protein
+IBPFAHIO_01546	IS30 family transposase IS1252
+IBPFAHIO_01547	hypothetical protein
+IBPFAHIO_01548	IS256 family transposase IS256
+IBPFAHIO_01549	hypothetical protein
+IBPFAHIO_01550	hypothetical protein
+IBPFAHIO_01551	IS982 family transposase ISEfm1
+IBPFAHIO_01552	hypothetical protein
+IBPFAHIO_01553	hypothetical protein
+IBPFAHIO_01554	IS30 family transposase IS6770
+IBPFAHIO_01555	Glycerol facilitator-aquaporin gla
+IBPFAHIO_01556	Holin-like protein CidA
+IBPFAHIO_01557	Inner membrane protein YohK
+IBPFAHIO_01558	hypothetical protein
+IBPFAHIO_01559	hypothetical protein
+IBPFAHIO_01560	3-beta-hydroxycholanate 3-dehydrogenase (NAD(+)) 2
+IBPFAHIO_01561	Queuosine precursor transporter QueT
+IBPFAHIO_01562	Biotin transporter BioY2
+IBPFAHIO_01563	30S ribosomal protein S4
+IBPFAHIO_01564	Nitrite transporter NirC
+IBPFAHIO_01565	hypothetical protein
+IBPFAHIO_01566	Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+IBPFAHIO_01567	2'%2C3'-cyclic-nucleotide 2'-phosphodiesterase
+IBPFAHIO_01568	hypothetical protein
+IBPFAHIO_01569	DNA mismatch repair protein MutS
+IBPFAHIO_01570	DNA mismatch repair protein MutL
+IBPFAHIO_01571	dTTP/UTP pyrophosphatase
+IBPFAHIO_01572	hypothetical protein
+IBPFAHIO_01573	HTH-type transcriptional regulator TreR
+IBPFAHIO_01574	Peptide methionine sulfoxide reductase MsrB
+IBPFAHIO_01575	Holliday junction ATP-dependent DNA helicase RuvA
+IBPFAHIO_01576	Holliday junction ATP-dependent DNA helicase RuvB
+IBPFAHIO_01577	hypothetical protein
+IBPFAHIO_01578	Low molecular weight protein-tyrosine-phosphatase YfkJ
+IBPFAHIO_01579	hypothetical protein
+IBPFAHIO_01580	IS30 family transposase IS1252
+IBPFAHIO_01581	Branched-chain amino acid transport system 2 carrier protein
+IBPFAHIO_01582	Potassium channel
+IBPFAHIO_01583	D-serine/D-alanine/glycine transporter
+IBPFAHIO_01584	Arginine transport ATP-binding protein ArtM
+IBPFAHIO_01585	Membrane-bound lytic murein transglycosylase F
+IBPFAHIO_01586	hypothetical protein
+IBPFAHIO_01587	hypothetical protein
+IBPFAHIO_01588	NAD-dependent protein deacetylase
+IBPFAHIO_01589	2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-acetyltransferase
+IBPFAHIO_01590	Transcription repressor NadR
+IBPFAHIO_01591	Peptide deformylase
+IBPFAHIO_01592	30S ribosomal protein S15
+IBPFAHIO_01593	Polyribonucleotide nucleotidyltransferase
+IBPFAHIO_01594	hypothetical protein
+IBPFAHIO_01595	Low affinity potassium transport system protein kup
+IBPFAHIO_01596	hypothetical protein
+IBPFAHIO_01597	DNA damage-inducible protein F
+IBPFAHIO_01598	hypothetical protein
+IBPFAHIO_01599	General stress protein CTC
+IBPFAHIO_01600	Ribosomal small subunit pseudouridine synthase A
+IBPFAHIO_01601	Putative HAD-hydrolase YfnB
+IBPFAHIO_01602	Uridine kinase
+IBPFAHIO_01603	hypothetical protein
+IBPFAHIO_01604	IS3 family transposase ISEnfa3
+IBPFAHIO_01605	hypothetical protein
+IBPFAHIO_01606	hypothetical protein
+IBPFAHIO_01607	hypothetical protein
+IBPFAHIO_01608	hypothetical protein
+IBPFAHIO_01609	hypothetical protein
+IBPFAHIO_01610	putative protein kinase UbiB
+IBPFAHIO_01611	hypothetical protein
+IBPFAHIO_01612	D-alanine--D-alanine ligase
+IBPFAHIO_01613	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+IBPFAHIO_01614	ATP-dependent RNA helicase CshA
+IBPFAHIO_01615	Holo-[acyl-carrier-protein] synthase
+IBPFAHIO_01616	Alanine racemase
+IBPFAHIO_01617	Endoribonuclease EndoA
+IBPFAHIO_01618	Alternate 30S ribosomal protein S14
+IBPFAHIO_01619	Zinc-type alcohol dehydrogenase-like protein
+IBPFAHIO_01620	hypothetical protein
+IBPFAHIO_01621	Potassium transporter KimA
+IBPFAHIO_01622	hypothetical protein
+IBPFAHIO_01623	hypothetical protein
+IBPFAHIO_01624	hypothetical protein
+IBPFAHIO_01625	hypothetical protein
+IBPFAHIO_01626	Glycine betaine/carnitine/choline transport system permease protein OpuCD
+IBPFAHIO_01627	Glycine betaine/carnitine/choline-binding protein OpuCC
+IBPFAHIO_01628	Carnitine transport permease protein OpuCB
+IBPFAHIO_01629	Carnitine transport ATP-binding protein OpuCA
+IBPFAHIO_01630	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+IBPFAHIO_01631	Calcium-transporting ATPase 1
+IBPFAHIO_01632	Calcium-transporting ATPase 1
+IBPFAHIO_01633	hypothetical protein
+IBPFAHIO_01634	Queuine tRNA-ribosyltransferase
+IBPFAHIO_01635	hypothetical protein
+IBPFAHIO_01636	IS1380 family transposase IS1678
+IBPFAHIO_01637	Aldehyde-alcohol dehydrogenase
+IBPFAHIO_01638	IS30 family transposase IS1252
+IBPFAHIO_01639	hypothetical protein
+IBPFAHIO_01640	Rhamnulokinase
+IBPFAHIO_01641	L-rhamnose isomerase
+IBPFAHIO_01642	Rhamnulose-1-phosphate aldolase
+IBPFAHIO_01643	L-rhamnose mutarotase
+IBPFAHIO_01644	Lactaldehyde reductase
+IBPFAHIO_01645	Transcriptional repressor IclR
+IBPFAHIO_01646	KHG/KDPG aldolase
+IBPFAHIO_01647	2-dehydro-3-deoxygluconokinase
+IBPFAHIO_01648	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase 1
+IBPFAHIO_01649	hypothetical protein
+IBPFAHIO_01650	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+IBPFAHIO_01651	Isopentenyl-diphosphate delta-isomerase
+IBPFAHIO_01652	Phosphomevalonate kinase
+IBPFAHIO_01653	hypothetical protein
+IBPFAHIO_01654	Galactokinase
+IBPFAHIO_01655	Deoxyguanosine kinase
+IBPFAHIO_01656	hypothetical protein
+IBPFAHIO_01657	hypothetical protein
+IBPFAHIO_01658	Translation initiation factor IF-3
+IBPFAHIO_01659	50S ribosomal protein L35
+IBPFAHIO_01660	50S ribosomal protein L20
+IBPFAHIO_01661	hypothetical protein
+IBPFAHIO_01662	hypothetical protein
+IBPFAHIO_01663	hypothetical protein
+IBPFAHIO_01664	HTH-type transcriptional repressor RspR
+IBPFAHIO_01665	hypothetical protein
+IBPFAHIO_01666	1%2C4-dihydroxy-2-naphthoyl-CoA hydrolase
+IBPFAHIO_01667	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+IBPFAHIO_01668	Beta-Ala-Xaa dipeptidase
+IBPFAHIO_01669	hypothetical protein
+IBPFAHIO_01670	3-sulfolactaldehyde dehydrogenase
+IBPFAHIO_01671	hypothetical protein
+IBPFAHIO_01672	hypothetical protein
+IBPFAHIO_01673	Glutamyl aminopeptidase
+IBPFAHIO_01674	Thioredoxin-like protein YtpP
+IBPFAHIO_01675	Putative universal stress protein
+IBPFAHIO_01676	hypothetical protein
+IBPFAHIO_01677	Serine protease Do-like HtrA
+IBPFAHIO_01678	Ribosomal RNA large subunit methyltransferase H
+IBPFAHIO_01679	IS3 family transposase IS1485
+IBPFAHIO_01680	IS3 family transposase IS1485
+IBPFAHIO_01681	hypothetical protein
+IBPFAHIO_01682	IS982 family transposase ISEfm1
+IBPFAHIO_01683	HTH-type transcriptional activator RhaR
+IBPFAHIO_01684	Alpha-galactosidase AgaA
+IBPFAHIO_01685	hypothetical protein
+IBPFAHIO_01686	IS1380 family transposase IS1678
+IBPFAHIO_01687	IS256 family transposase ISEf1
+IBPFAHIO_01688	IS256 family transposase ISEf1
+IBPFAHIO_01689	hypothetical protein
+IBPFAHIO_01690	hypothetical protein
+IBPFAHIO_01691	hypothetical protein
+IBPFAHIO_01692	IS1380 family transposase IS1678
+IBPFAHIO_01693	hypothetical protein
+IBPFAHIO_01694	hypothetical protein
+IBPFAHIO_01695	hypothetical protein
+IBPFAHIO_01696	hypothetical protein
+IBPFAHIO_01697	hypothetical protein
+IBPFAHIO_01698	hypothetical protein
+IBPFAHIO_01699	hypothetical protein
+IBPFAHIO_01700	hypothetical protein
+IBPFAHIO_01701	hypothetical protein
+IBPFAHIO_01702	hypothetical protein
+IBPFAHIO_01703	IS30 family transposase IS1252
+IBPFAHIO_01704	hypothetical protein
+IBPFAHIO_01705	hypothetical protein
+IBPFAHIO_01706	Anaerobic nitric oxide reductase transcription regulator NorR
+IBPFAHIO_01707	PTS system sorbose-specific EIIB component
+IBPFAHIO_01708	N-acetylgalactosamine permease IIC component 1
+IBPFAHIO_01709	PTS system mannose-specific EIID component
+IBPFAHIO_01710	hypothetical protein
+IBPFAHIO_01711	hypothetical protein
+IBPFAHIO_01712	Putative fructokinase
+IBPFAHIO_01713	hypothetical protein
+IBPFAHIO_01714	IS30 family transposase IS1252
+IBPFAHIO_01715	IS630 family transposase ISBs2
+IBPFAHIO_01716	hypothetical protein
+IBPFAHIO_01717	Serine/threonine transporter SstT
+IBPFAHIO_01718	hypothetical protein
+IBPFAHIO_01719	Transcriptional regulator ManR
+IBPFAHIO_01720	hypothetical protein
+IBPFAHIO_01721	hypothetical protein
+IBPFAHIO_01722	IS30 family transposase IS1252
+IBPFAHIO_01723	hypothetical protein
+IBPFAHIO_01724	Spermidine/spermine N(1)-acetyltransferase
+IBPFAHIO_01725	hypothetical protein
+IBPFAHIO_01726	hypothetical protein
+IBPFAHIO_01727	hypothetical protein
+IBPFAHIO_01728	hypothetical protein
+IBPFAHIO_01729	Guanine/hypoxanthine permease PbuG
+IBPFAHIO_01730	Oligo-1%2C6-glucosidase
+IBPFAHIO_01731	hypothetical protein
+IBPFAHIO_01732	putative oxidoreductase
+IBPFAHIO_01733	Protein/nucleic acid deglycase 1
+IBPFAHIO_01734	NADH peroxidase
+IBPFAHIO_01735	hypothetical protein
+IBPFAHIO_01736	Glycerol kinase
+IBPFAHIO_01737	Alpha-glycerophosphate oxidase
+IBPFAHIO_01738	Glycerol uptake facilitator protein
+IBPFAHIO_01739	Endonuclease MutS2
+IBPFAHIO_01740	Putative cardiolipin synthase
+IBPFAHIO_01741	hypothetical protein
+IBPFAHIO_01742	hypothetical protein
+IBPFAHIO_01743	Thiosulfate sulfurtransferase GlpE
+IBPFAHIO_01744	Coenzyme A disulfide reductase
+IBPFAHIO_01745	DNA helicase IV
+IBPFAHIO_01746	hypothetical protein
+IBPFAHIO_01747	hypothetical protein
+IBPFAHIO_01748	Poly-beta-1%2C6-N-acetyl-D-glucosamine synthase
+IBPFAHIO_01749	hypothetical protein
+IBPFAHIO_01750	hypothetical protein
+IBPFAHIO_01751	PEP-dependent dihydroxyacetone kinase 2%2C phosphoryl donor subunit DhaM
+IBPFAHIO_01752	PTS-dependent dihydroxyacetone kinase%2C dihydroxyacetone-binding subunit DhaK
+IBPFAHIO_01753	PTS-dependent dihydroxyacetone kinase%2C ADP-binding subunit DhaL
+IBPFAHIO_01754	hypothetical protein
+IBPFAHIO_01755	Transcriptional activator protein Anr
+IBPFAHIO_01756	Multidrug efflux system permease protein
+IBPFAHIO_01757	Multidrug efflux system ATP-binding protein
+IBPFAHIO_01758	IS30 family transposase IS1252
+IBPFAHIO_01759	Arginine transport ATP-binding protein ArtM
+IBPFAHIO_01760	hypothetical protein
+IBPFAHIO_01761	hypothetical protein
+IBPFAHIO_01762	Tyrosine--tRNA ligase 1
+IBPFAHIO_01763	hypothetical protein
+IBPFAHIO_01764	putative glutamate/gamma-aminobutyrate antiporter
+IBPFAHIO_01765	Na(+)/H(+) antiporter NhaC
+IBPFAHIO_01766	Na(+)/H(+) antiporter NhaC
+IBPFAHIO_01767	Catabolite control protein A
+IBPFAHIO_01768	Aldose 1-epimerase
+IBPFAHIO_01769	Beta-phosphoglucomutase
+IBPFAHIO_01770	Maltose phosphorylase
+IBPFAHIO_01771	PTS system glucose-specific EIICBA component
+IBPFAHIO_01772	Maltose 6'-phosphate phosphatase
+IBPFAHIO_01773	hypothetical protein
+IBPFAHIO_01774	IS1380 family transposase IS1678
+IBPFAHIO_01775	hypothetical protein
+IBPFAHIO_01776	Peptidyl-lysine N-acetyltransferase YiaC
+IBPFAHIO_01777	Phenolic acid decarboxylase PadC
+IBPFAHIO_01778	hypothetical protein
+IBPFAHIO_01779	hypothetical protein
+IBPFAHIO_01780	Multidrug export protein EmrB
+IBPFAHIO_01781	hypothetical protein
+IBPFAHIO_01782	hypothetical protein
+IBPFAHIO_01783	hypothetical protein
+IBPFAHIO_01784	putative UbiX-like flavin prenyltransferase
+IBPFAHIO_01785	Gallate decarboxylase
+IBPFAHIO_01786	hypothetical protein
+IBPFAHIO_01787	Vitamin B12 import ATP-binding protein BtuD
+IBPFAHIO_01788	Heme response regulator HssR
+IBPFAHIO_01789	Adaptive-response sensory-kinase SasA
+IBPFAHIO_01790	HTH-type transcriptional regulator GltC
+IBPFAHIO_01791	putative membrane protein YdfK
+IBPFAHIO_01792	hypothetical protein
+IBPFAHIO_01793	hypothetical protein
+IBPFAHIO_01794	hypothetical protein
+IBPFAHIO_01795	hypothetical protein
+IBPFAHIO_01796	hypothetical protein
+IBPFAHIO_01797	hypothetical protein
+IBPFAHIO_01798	Bacitracin export ATP-binding protein BceA
+IBPFAHIO_01799	Bacitracin export permease protein BceB
+IBPFAHIO_01800	Aldose 1-epimerase
+IBPFAHIO_01801	hypothetical protein
+IBPFAHIO_01802	PTS system beta-glucoside-specific EIIBCA component
+IBPFAHIO_01803	D-ribose pyranase
+IBPFAHIO_01804	Ribokinase
+IBPFAHIO_01805	HTH-type transcriptional regulator DegA
+IBPFAHIO_01806	Isochorismatase family protein YecD
+IBPFAHIO_01807	putative ABC transporter ATP-binding protein
+IBPFAHIO_01808	hypothetical protein
+IBPFAHIO_01809	Trehalose-6-phosphate hydrolase
+IBPFAHIO_01810	hypothetical protein
+IBPFAHIO_01811	hypothetical protein
+IBPFAHIO_01812	Accessory gene regulator protein A
+IBPFAHIO_01813	hypothetical protein
+IBPFAHIO_01814	hypothetical protein
+IBPFAHIO_01815	Accessory gene regulator protein B
+IBPFAHIO_01816	hypothetical protein
+IBPFAHIO_01817	Deoxyguanosine kinase
+IBPFAHIO_01818	hypothetical protein
+IBPFAHIO_01819	Putative ATP-dependent DNA helicase YjcD
+IBPFAHIO_01820	Regulatory protein Spx
+IBPFAHIO_01821	Regulatory protein Spx
+IBPFAHIO_01822	Glutathione peroxidase BsaA
+IBPFAHIO_01823	S-ribosylhomocysteine lyase
+IBPFAHIO_01824	Cystathionine gamma-synthase
+IBPFAHIO_01825	Cysteine synthase
+IBPFAHIO_01826	Elongation factor P
+IBPFAHIO_01827	Diaminopimelate decarboxylase
+IBPFAHIO_01828	Diaminopimelate epimerase
+IBPFAHIO_01829	4-hydroxy-tetrahydrodipicolinate synthase
+IBPFAHIO_01830	4-hydroxy-tetrahydrodipicolinate reductase
+IBPFAHIO_01831	2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-acetyltransferase
+IBPFAHIO_01832	Aspartate-semialdehyde dehydrogenase
+IBPFAHIO_01833	Aspartokinase 3
+IBPFAHIO_01834	N-acetylcysteine deacetylase
+IBPFAHIO_01835	putative N-acetyl-LL-diaminopimelate aminotransferase
+IBPFAHIO_01836	NADH peroxidase
+IBPFAHIO_01837	hypothetical protein
+IBPFAHIO_01838	IS3 family transposase ISEfa10
+IBPFAHIO_01839	hypothetical protein
+IBPFAHIO_01840	hypothetical protein
+IBPFAHIO_01841	Protein UmuC
+IBPFAHIO_01842	Galactokinase
+IBPFAHIO_01843	Aldose 1-epimerase
+IBPFAHIO_01844	Lactose permease
+IBPFAHIO_01845	HTH-type transcriptional activator RhaS
+IBPFAHIO_01846	Glutathione-regulated potassium-efflux system ancillary protein KefG
+IBPFAHIO_01847	hypothetical protein
+IBPFAHIO_01848	hypothetical protein
+IBPFAHIO_01849	putative transport protein YifK
+IBPFAHIO_01850	Manganese import ATP-binding protein ScaC
+IBPFAHIO_01851	Manganese transport system membrane protein MntB
+IBPFAHIO_01852	Manganese ABC transporter substrate-binding lipoprotein
+IBPFAHIO_01853	hypothetical protein
+IBPFAHIO_01854	Epoxyqueuosine reductase
+IBPFAHIO_01855	hypothetical protein
+IBPFAHIO_01856	Phosphoenolpyruvate carboxykinase (ATP)
+IBPFAHIO_01857	Glycine oxidase
+IBPFAHIO_01858	Riboflavin transporter RibZ
+IBPFAHIO_01859	hypothetical protein
+IBPFAHIO_01860	Arginine repressor
+IBPFAHIO_01861	Phosphomannomutase/phosphoglucomutase
+IBPFAHIO_01862	hypothetical protein
+IBPFAHIO_01863	Organic hydroperoxide resistance protein OhrB
+IBPFAHIO_01864	putative pyridine nucleotide-disulfide oxidoreductase RclA
+IBPFAHIO_01865	hypothetical protein
+IBPFAHIO_01866	Transcriptional regulator AcuR
+IBPFAHIO_01867	hypothetical protein
+IBPFAHIO_01868	hypothetical protein
+IBPFAHIO_01869	hypothetical protein
+IBPFAHIO_01870	hypothetical protein
+IBPFAHIO_01871	Endoribonuclease toxin MazF
+IBPFAHIO_01872	hypothetical protein
+IBPFAHIO_01873	hypothetical protein
+IBPFAHIO_01874	putative manganese catalase
+IBPFAHIO_01875	putative arabinose-binding protein
+IBPFAHIO_01876	Lactose transport system permease protein LacF
+IBPFAHIO_01877	L-arabinose transport system permease protein AraQ
+IBPFAHIO_01878	hypothetical protein
+IBPFAHIO_01879	hypothetical protein
+IBPFAHIO_01880	hypothetical protein
+IBPFAHIO_01881	hypothetical protein
+IBPFAHIO_01882	hypothetical protein
+IBPFAHIO_01883	hypothetical protein
+IBPFAHIO_01884	hypothetical protein
+IBPFAHIO_01885	hypothetical protein
+IBPFAHIO_01886	Response regulator protein GraR
+IBPFAHIO_01887	Sensor histidine kinase GraS
+IBPFAHIO_01888	putative glucose uptake protein GlcU
+IBPFAHIO_01889	putative amino acid permease YhdG
+IBPFAHIO_01890	TelA-like protein
+IBPFAHIO_01891	hypothetical protein
+IBPFAHIO_01892	Methanol dehydrogenase activator
+IBPFAHIO_01893	hypothetical protein
+IBPFAHIO_01894	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+IBPFAHIO_01895	hypothetical protein
+IBPFAHIO_01896	hypothetical protein
+IBPFAHIO_01897	Neutral endopeptidase
+IBPFAHIO_01898	hypothetical protein
+IBPFAHIO_01899	Putative ribose-phosphate pyrophosphokinase 2
+IBPFAHIO_01900	Cysteine desulfurase IscS
+IBPFAHIO_01901	hypothetical protein
+IBPFAHIO_01902	hypothetical protein
+IBPFAHIO_01903	hypothetical protein
+IBPFAHIO_01904	tRNA-specific 2-thiouridylase MnmA
+IBPFAHIO_01905	Arginine/ornithine antiporter ArcD1
+IBPFAHIO_01906	Capreomycidine synthase
+IBPFAHIO_01907	Staphyloferrin B transporter
+IBPFAHIO_01908	hypothetical protein
+IBPFAHIO_01909	hypothetical protein
+IBPFAHIO_01910	DNA topoisomerase 3
+IBPFAHIO_01911	Prophage bactoprenol glucosyl transferase 
+IBPFAHIO_01912	Methylated-DNA--protein-cysteine methyltransferase%2C constitutive
+IBPFAHIO_01913	hypothetical protein
+IBPFAHIO_01914	hypothetical protein
+IBPFAHIO_01915	HTH-type transcriptional regulator CysL
+IBPFAHIO_01916	Peptidoglycan glycosyltransferase RodA
+IBPFAHIO_01917	Regulatory protein MgsR
+IBPFAHIO_01918	Glycine cleavage system H protein
+IBPFAHIO_01919	Methionine import ATP-binding protein MetN 2
+IBPFAHIO_01920	Methionine import system permease protein MetP
+IBPFAHIO_01921	Methionine-binding lipoprotein MetQ
+IBPFAHIO_01922	putative ABC transporter ATP-binding protein
+IBPFAHIO_01923	hypothetical protein
+IBPFAHIO_01924	Cysteine desulfurase SufS
+IBPFAHIO_01925	Iron-sulfur cluster assembly scaffold protein IscU
+IBPFAHIO_01926	hypothetical protein
+IBPFAHIO_01927	Tyrosine recombinase XerC
+IBPFAHIO_01928	hypothetical protein
+IBPFAHIO_01929	hypothetical protein
+IBPFAHIO_01930	hypothetical protein
+IBPFAHIO_01931	hypothetical protein
+IBPFAHIO_01932	hypothetical protein
+IBPFAHIO_01933	hypothetical protein
+IBPFAHIO_01934	hypothetical protein
+IBPFAHIO_01935	hypothetical protein
+IBPFAHIO_01936	hypothetical protein
+IBPFAHIO_01937	hypothetical protein
+IBPFAHIO_01938	hypothetical protein
+IBPFAHIO_01939	hypothetical protein
+IBPFAHIO_01940	IS1182 family transposase ISEfa7
+IBPFAHIO_01941	hypothetical protein
+IBPFAHIO_01942	hypothetical protein
+IBPFAHIO_01943	putative ABC transporter ATP-binding protein YknY
+IBPFAHIO_01944	hypothetical protein
+IBPFAHIO_01945	Foldase protein PrsA
+IBPFAHIO_01946	hypothetical protein
+IBPFAHIO_01947	Putative lipid kinase
+IBPFAHIO_01948	hypothetical protein
+IBPFAHIO_01949	hypothetical protein
+IBPFAHIO_01950	hypothetical protein
+IBPFAHIO_01951	hypothetical protein
+IBPFAHIO_01952	hypothetical protein
+IBPFAHIO_01953	hypothetical protein
+IBPFAHIO_01954	hypothetical protein
+IBPFAHIO_01955	hypothetical protein
+IBPFAHIO_01956	Sortase A
+IBPFAHIO_01957	Transcription antiterminator LicT
+IBPFAHIO_01958	hypothetical protein
+IBPFAHIO_01959	PTS system beta-glucoside-specific EIIBCA component
+IBPFAHIO_01960	Aryl-phospho-beta-D-glucosidase BglH
+IBPFAHIO_01961	hypothetical protein
+IBPFAHIO_01962	PTS system fructose-specific EIIB'BC component
+IBPFAHIO_01963	hypothetical protein
+IBPFAHIO_01964	LOG family protein YvdD
+IBPFAHIO_01965	hypothetical protein
+IBPFAHIO_01966	Deoxyguanosine kinase
+IBPFAHIO_01967	hypothetical protein
+IBPFAHIO_01968	hypothetical protein
+IBPFAHIO_01969	Ribose operon repressor
+IBPFAHIO_01970	6-phospho-beta-glucosidase GmuD
+IBPFAHIO_01971	hypothetical protein
+IBPFAHIO_01972	Lipoteichoic acid synthase 1
+IBPFAHIO_01973	hypothetical protein
+IBPFAHIO_01974	Nucleoside diphosphate kinase
+IBPFAHIO_01975	Magnesium-transporting ATPase%2C P-type 1
+IBPFAHIO_01976	Phosphorylated carbohydrates phosphatase
+IBPFAHIO_01977	hypothetical protein
+IBPFAHIO_01978	Methionine import ATP-binding protein MetN
+IBPFAHIO_01979	Methionine import system permease protein MetP
+IBPFAHIO_01980	D-methionine-binding lipoprotein MetQ
+IBPFAHIO_01981	p-aminobenzoyl-glutamate hydrolase subunit B
+IBPFAHIO_01982	Na(+)/H(+) antiporter NhaC
+IBPFAHIO_01983	hypothetical protein
+IBPFAHIO_01984	putative amino acid permease YvbW
+IBPFAHIO_01985	hypothetical protein
+IBPFAHIO_01986	2-dehydropantoate 2-reductase
+IBPFAHIO_01987	Glycerate 2-kinase
+IBPFAHIO_01988	ABC-F type ribosomal protection protein Eat(A)
+IBPFAHIO_01989	Putative phosphoserine phosphatase 2
+IBPFAHIO_01990	hypothetical protein
+IBPFAHIO_01991	N-acetylmuramic acid 6-phosphate etherase
+IBPFAHIO_01992	hypothetical protein
+IBPFAHIO_01993	Putative NrdI-like protein
+IBPFAHIO_01994	Arginine/ornithine antiporter ArcD1
+IBPFAHIO_01995	hypothetical protein
+IBPFAHIO_01996	Bacitracin transport ATP-binding protein BcrA
+IBPFAHIO_01997	Guanidinium exporter
+IBPFAHIO_01998	hypothetical protein
+IBPFAHIO_01999	hypothetical protein
+IBPFAHIO_02000	Pyrrolidone-carboxylate peptidase
+IBPFAHIO_02001	hypothetical protein
+IBPFAHIO_02002	Nicotinamide riboside transporter PnuC
+IBPFAHIO_02003	hypothetical protein
+IBPFAHIO_02004	hypothetical protein
+IBPFAHIO_02005	hypothetical protein
+IBPFAHIO_02006	hypothetical protein
+IBPFAHIO_02007	hypothetical protein
+IBPFAHIO_02008	Phosphatase YwpJ
+IBPFAHIO_02009	Uracil-DNA glycosylase
+IBPFAHIO_02010	Phosphate acetyltransferase
+IBPFAHIO_02011	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+IBPFAHIO_02012	hypothetical protein
+IBPFAHIO_02013	DNA polymerase III PolC-type
+IBPFAHIO_02014	Exodeoxyribonuclease
+IBPFAHIO_02015	Putative oxidoreductase YceM
+IBPFAHIO_02016	UDP-N-acetylenolpyruvoylglucosamine reductase
+IBPFAHIO_02017	hypothetical protein
+IBPFAHIO_02018	hypothetical protein
+IBPFAHIO_02019	hypothetical protein
+IBPFAHIO_02020	hypothetical protein
+IBPFAHIO_02021	Fumarate reductase flavoprotein subunit
+IBPFAHIO_02022	2-haloacrylate reductase
+IBPFAHIO_02023	putative sugar epimerase YhfK
+IBPFAHIO_02024	Pantothenic acid transporter PanT
+IBPFAHIO_02025	Coenzyme A biosynthesis bifunctional protein CoaBC
+IBPFAHIO_02026	Coenzyme A biosynthesis bifunctional protein CoaBC
+IBPFAHIO_02027	putative acrylyl-CoA reductase AcuI
+IBPFAHIO_02028	hypothetical protein
+IBPFAHIO_02029	Spermidine/putrescine import ATP-binding protein PotA
+IBPFAHIO_02030	Spermidine/putrescine transport system permease protein PotB
+IBPFAHIO_02031	Inner membrane ABC transporter permease protein YdcV
+IBPFAHIO_02032	Spermidine/putrescine-binding periplasmic protein
+IBPFAHIO_02033	Transcriptional regulatory protein DagR
+IBPFAHIO_02034	hypothetical protein
+IBPFAHIO_02035	putative phosphotransferase enzyme IIB component
+IBPFAHIO_02036	hypothetical protein
+IBPFAHIO_02037	PTS system mannose-specific EIID component
+IBPFAHIO_02038	hypothetical protein
+IBPFAHIO_02039	hypothetical protein
+IBPFAHIO_02040	Putative fructokinase
+IBPFAHIO_02041	hypothetical protein
+IBPFAHIO_02042	hypothetical protein
+IBPFAHIO_02043	hypothetical protein
+IBPFAHIO_02044	hypothetical protein
+IBPFAHIO_02045	Tyrosine recombinase XerC
+IBPFAHIO_02046	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+IBPFAHIO_02047	IS30 family transposase IS1252
+IBPFAHIO_02048	HTH-type transcriptional regulator GlnR
+IBPFAHIO_02049	Glutamine synthetase
+IBPFAHIO_02050	hypothetical protein
+IBPFAHIO_02051	CTP synthase
+IBPFAHIO_02052	Fructose-bisphosphate aldolase
+IBPFAHIO_02053	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+IBPFAHIO_02054	Transcription termination factor Rho
+IBPFAHIO_02055	50S ribosomal protein L31 type B
+IBPFAHIO_02056	PTS system fructose-specific EIIABC component
+IBPFAHIO_02057	PTS system fructose-specific EIIABC component
+IBPFAHIO_02058	D-tagatose-1%2C6-bisphosphate aldolase subunit KbaY
+IBPFAHIO_02059	putative HTH-type transcriptional regulator YdjF
+IBPFAHIO_02060	hypothetical protein
+IBPFAHIO_02061	putative MFS-type transporter YfcJ
+IBPFAHIO_02062	hypothetical protein
+IBPFAHIO_02063	Lactate racemization regulatory protein
+IBPFAHIO_02064	hypothetical protein
+IBPFAHIO_02065	hypothetical protein
+IBPFAHIO_02066	hypothetical protein
+IBPFAHIO_02067	hypothetical protein
+IBPFAHIO_02068	Nucleoid-associated protein
+IBPFAHIO_02069	Recombination protein RecR
+IBPFAHIO_02070	Thymidylate kinase
+IBPFAHIO_02071	Cyclic di-AMP receptor A
+IBPFAHIO_02072	hypothetical protein
+IBPFAHIO_02073	hypothetical protein
+IBPFAHIO_02074	Initiation-control protein YabA
+IBPFAHIO_02075	Ribosomal RNA small subunit methyltransferase I
+IBPFAHIO_02076	DNA polymerase IV
+IBPFAHIO_02077	hypothetical protein
+IBPFAHIO_02078	Anaerobic ribonucleoside-triphosphate reductase
+IBPFAHIO_02079	Bacitracin export ATP-binding protein BceA
+IBPFAHIO_02080	Bacitracin export permease protein BceB
+IBPFAHIO_02081	D-alanine--D-alanyl carrier protein ligase
+IBPFAHIO_02082	hypothetical protein
+IBPFAHIO_02083	D-alanyl carrier protein
+IBPFAHIO_02084	Protein DltD
+IBPFAHIO_02085	hypothetical protein
+IBPFAHIO_02086	Putative aminopeptidase YsdC
+IBPFAHIO_02087	hypothetical protein
+IBPFAHIO_02088	putative protein
+IBPFAHIO_02089	Lipoate-protein ligase LplJ
+IBPFAHIO_02090	hypothetical protein
+IBPFAHIO_02091	hypothetical protein
+IBPFAHIO_02092	tRNA 5-hydroxyuridine methyltransferase
+IBPFAHIO_02094	hypothetical protein
+IBPFAHIO_02095	C4-dicarboxylic acid transporter DauA
+IBPFAHIO_02096	Type-4 uracil-DNA glycosylase
+IBPFAHIO_02097	50S ribosomal protein L21
+IBPFAHIO_02098	hypothetical protein
+IBPFAHIO_02099	50S ribosomal protein L27
+IBPFAHIO_02100	Transcriptional regulatory protein DagR
+IBPFAHIO_02101	PTS system mannose-specific EIIAB component
+IBPFAHIO_02102	PTS system mannose-specific EIIAB component
+IBPFAHIO_02103	PTS system sorbose-specific EIIC component
+IBPFAHIO_02104	PTS system mannose-specific EIID component
+IBPFAHIO_02105	hypothetical protein
+IBPFAHIO_02106	hypothetical protein
+IBPFAHIO_02107	Aminopeptidase YpdF
+IBPFAHIO_02108	putative protein
+IBPFAHIO_02109	Transcription antitermination protein NusB
+IBPFAHIO_02110	Bifunctional protein FolD protein
+IBPFAHIO_02111	Exodeoxyribonuclease 7 large subunit
+IBPFAHIO_02112	Exodeoxyribonuclease 7 small subunit
+IBPFAHIO_02113	Farnesyl diphosphate synthase
+IBPFAHIO_02114	Hemolysin A
+IBPFAHIO_02115	Arginine repressor
+IBPFAHIO_02116	DNA repair protein RecN
+IBPFAHIO_02117	hypothetical protein
+IBPFAHIO_02118	hypothetical protein
+IBPFAHIO_02119	hypothetical protein
+IBPFAHIO_02120	Transcriptional regulator MraZ
+IBPFAHIO_02121	Ribosomal RNA small subunit methyltransferase H
+IBPFAHIO_02122	Cell division protein FtsL
+IBPFAHIO_02123	Penicillin-binding protein 2X
+IBPFAHIO_02124	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+IBPFAHIO_02125	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+IBPFAHIO_02126	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+IBPFAHIO_02127	Cell division protein DivIB
+IBPFAHIO_02128	Cell division protein FtsA
+IBPFAHIO_02129	Cell division protein FtsZ
+IBPFAHIO_02130	Pyridoxal phosphate homeostasis protein
+IBPFAHIO_02131	Cell division protein SepF
+IBPFAHIO_02132	hypothetical protein
+IBPFAHIO_02133	Cell division protein DivIVA
+IBPFAHIO_02134	Isoleucine--tRNA ligase
+IBPFAHIO_02135	Glucose-6-phosphate 1-dehydrogenase
+IBPFAHIO_02136	Diphtheria toxin repressor
+IBPFAHIO_02137	hypothetical protein
+IBPFAHIO_02138	Sugar fermentation stimulation protein A
+IBPFAHIO_02139	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+IBPFAHIO_02140	putative ATP-dependent RNA helicase YfmL
+IBPFAHIO_02141	Transcriptional regulatory protein DagR
+IBPFAHIO_02142	PTS system galactose-specific EIIB component
+IBPFAHIO_02143	Lichenan-specific phosphotransferase enzyme IIA component
+IBPFAHIO_02144	PTS system cellobiose-specific EIIC component
+IBPFAHIO_02145	hypothetical protein
+IBPFAHIO_02146	hypothetical protein
+IBPFAHIO_02147	hypothetical protein
+IBPFAHIO_02148	N-acetyltransferase Eis
+IBPFAHIO_02149	hypothetical protein
+IBPFAHIO_02151	Tyrosine recombinase XerC
+IBPFAHIO_02152	hypothetical protein
+IBPFAHIO_02153	hypothetical protein
+IBPFAHIO_02154	hypothetical protein
+IBPFAHIO_02155	hypothetical protein
+IBPFAHIO_02156	hypothetical protein
+IBPFAHIO_02157	hypothetical protein
+IBPFAHIO_02158	hypothetical protein
+IBPFAHIO_02159	hypothetical protein
+IBPFAHIO_02160	hypothetical protein
+IBPFAHIO_02161	hypothetical protein
+IBPFAHIO_02162	hypothetical protein
+IBPFAHIO_02163	hypothetical protein
+IBPFAHIO_02164	hypothetical protein
+IBPFAHIO_02165	hypothetical protein
+IBPFAHIO_02166	hypothetical protein
+IBPFAHIO_02167	hypothetical protein
+IBPFAHIO_02168	hypothetical protein
+IBPFAHIO_02169	hypothetical protein
+IBPFAHIO_02170	hypothetical protein
+IBPFAHIO_02171	hypothetical protein
+IBPFAHIO_02172	hypothetical protein
+IBPFAHIO_02173	hypothetical protein
+IBPFAHIO_02174	hypothetical protein
+IBPFAHIO_02175	hypothetical protein
+IBPFAHIO_02176	hypothetical protein
+IBPFAHIO_02177	hypothetical protein
+IBPFAHIO_02178	hypothetical protein
+IBPFAHIO_02179	hypothetical protein
+IBPFAHIO_02180	hypothetical protein
+IBPFAHIO_02181	hypothetical protein
+IBPFAHIO_02182	hypothetical protein
+IBPFAHIO_02183	hypothetical protein
+IBPFAHIO_02184	hypothetical protein
+IBPFAHIO_02185	hypothetical protein
+IBPFAHIO_02186	hypothetical protein
+IBPFAHIO_02187	ATP-dependent Clp protease proteolytic subunit
+IBPFAHIO_02188	hypothetical protein
+IBPFAHIO_02189	hypothetical protein
+IBPFAHIO_02190	hypothetical protein
+IBPFAHIO_02191	hypothetical protein
+IBPFAHIO_02192	hypothetical protein
+IBPFAHIO_02193	hypothetical protein
+IBPFAHIO_02194	hypothetical protein
+IBPFAHIO_02195	hypothetical protein
+IBPFAHIO_02196	Chromosome partition protein Smc
+IBPFAHIO_02197	ISL3 family transposase ISEfa11
+IBPFAHIO_02198	hypothetical protein
+IBPFAHIO_02199	hypothetical protein
+IBPFAHIO_02200	hypothetical protein
+IBPFAHIO_02201	hypothetical protein
+IBPFAHIO_02202	hypothetical protein
+IBPFAHIO_02203	hypothetical protein
+IBPFAHIO_02204	hypothetical protein
+IBPFAHIO_02205	hypothetical protein
+IBPFAHIO_02206	hypothetical protein
+IBPFAHIO_02208	IS3 family transposase ISEfa8
+IBPFAHIO_02209	IS3 family transposase ISEfa8
+IBPFAHIO_02210	IS3 family transposase ISEnfa3
+IBPFAHIO_02211	hypothetical protein
+IBPFAHIO_02212	hypothetical protein
+IBPFAHIO_02213	hypothetical protein
+IBPFAHIO_02214	hypothetical protein
+IBPFAHIO_02215	hypothetical protein
+IBPFAHIO_02216	IS256 family transposase IS16
+IBPFAHIO_02217	hypothetical protein
+IBPFAHIO_02218	Catabolite control protein B
+IBPFAHIO_02219	HTH-type transcriptional activator mta
+IBPFAHIO_02220	hypothetical protein
+IBPFAHIO_02221	Nicotinate phosphoribosyltransferase pncB2
+IBPFAHIO_02222	NH(3)-dependent NAD(+) synthetase
+IBPFAHIO_02223	hypothetical protein
+IBPFAHIO_02224	Intracellular exo-alpha-(1->5)-L-arabinofuranosidase
+IBPFAHIO_02225	sn-glycerol-3-phosphate-binding periplasmic protein UgpB
+IBPFAHIO_02226	Melibiose/raffinose/stachyose import permease protein MelD
+IBPFAHIO_02227	L-arabinose transport system permease protein AraQ
+IBPFAHIO_02228	hypothetical protein
+IBPFAHIO_02229	Intracellular exo-alpha-(1->5)-L-arabinofuranosidase 1
+IBPFAHIO_02230	Extracellular exo-alpha-(1->5)-L-arabinofuranosidase
+IBPFAHIO_02231	Arabinose metabolism transcriptional repressor
+IBPFAHIO_02232	D-xylose transporter
+IBPFAHIO_02233	Xylulose kinase
+IBPFAHIO_02234	L-ribulose-5-phosphate 4-epimerase SgbE
+IBPFAHIO_02235	L-arabinose isomerase
+IBPFAHIO_02236	Glyoxylate/hydroxypyruvate reductase B
+IBPFAHIO_02237	hypothetical protein
+IBPFAHIO_02238	hypothetical protein
+IBPFAHIO_02239	hypothetical protein
+IBPFAHIO_02240	6-phosphogluconolactonase
+IBPFAHIO_02241	hypothetical protein
+IBPFAHIO_02242	hypothetical protein
+IBPFAHIO_02243	FMN-dependent NADH-azoreductase
+IBPFAHIO_02244	hypothetical protein
+IBPFAHIO_02245	hypothetical protein
+IBPFAHIO_02246	putative ABC transporter ATP-binding protein
+IBPFAHIO_02247	hypothetical protein
+IBPFAHIO_02248	Fatty acid ABC transporter ATP-binding/permease protein
+IBPFAHIO_02249	Catechol-2%2C3-dioxygenase
+IBPFAHIO_02250	N-acetylmuramyl-L-alanine amidase
+IBPFAHIO_02251	putative mannose-6-phosphate isomerase GmuF
+IBPFAHIO_02252	PTS system mannitol-specific EIICB component
+IBPFAHIO_02253	hypothetical protein
+IBPFAHIO_02254	Transcriptional regulator MtlR
+IBPFAHIO_02255	Mannitol-specific phosphotransferase enzyme IIA component
+IBPFAHIO_02256	hypothetical protein
+IBPFAHIO_02257	ABC transporter ATP-binding protein NatA
+IBPFAHIO_02258	hypothetical protein
+IBPFAHIO_02259	Mannitol-specific phosphotransferase enzyme IIA component
+IBPFAHIO_02260	Mannitol-1-phosphate 5-dehydrogenase
+IBPFAHIO_02261	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit GatD
+IBPFAHIO_02262	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT
+IBPFAHIO_02263	Potassium/sodium uptake protein NtpJ
+IBPFAHIO_02264	Epoxyqueuosine reductase QueH
+IBPFAHIO_02265	hypothetical protein
+IBPFAHIO_02266	hypothetical protein
+IBPFAHIO_02267	hypothetical protein
+IBPFAHIO_02268	Signal peptidase IB
+IBPFAHIO_02269	2-methoxy-6-polyprenyl-1%2C4-benzoquinol methylase%2C mitochondrial
+IBPFAHIO_02270	hypothetical protein
+IBPFAHIO_02271	hypothetical protein
+IBPFAHIO_02272	Thymidine kinase
+IBPFAHIO_02273	Peptide chain release factor 1
+IBPFAHIO_02274	Release factor glutamine methyltransferase
+IBPFAHIO_02275	Threonylcarbamoyl-AMP synthase
+IBPFAHIO_02276	hypothetical protein
+IBPFAHIO_02277	Serine hydroxymethyltransferase
+IBPFAHIO_02278	Carboxylesterase NlhH
+IBPFAHIO_02279	Uracil phosphoribosyltransferase
+IBPFAHIO_02280	hypothetical protein
+IBPFAHIO_02282	hypothetical protein
+IBPFAHIO_02283	hypothetical protein
+IBPFAHIO_02284	hypothetical protein
+IBPFAHIO_02285	Collagen adhesin
+IBPFAHIO_02286	Prolyl-tRNA editing protein ProX
+IBPFAHIO_02287	L-cystine transport system permease protein YecS
+IBPFAHIO_02288	Glutamine transport ATP-binding protein GlnQ
+IBPFAHIO_02289	L-cystine-binding protein FliY
+IBPFAHIO_02290	Aryl-phospho-beta-D-glucosidase BglC
+IBPFAHIO_02291	DNA translocase SpoIIIE
+IBPFAHIO_02292	putative dual-specificity RNA methyltransferase RlmN
+IBPFAHIO_02293	hypothetical protein
+IBPFAHIO_02294	hypothetical protein
+IBPFAHIO_02295	Dipeptide-binding protein DppE
+IBPFAHIO_02296	hypothetical protein
+IBPFAHIO_02297	Oligopeptide transport system permease protein OppB
+IBPFAHIO_02298	Dipeptide transport system permease protein DppC
+IBPFAHIO_02299	Oligopeptide transport ATP-binding protein OppD
+IBPFAHIO_02300	Oligopeptide transport ATP-binding protein OppF
+IBPFAHIO_02301	IS200/IS605 family transposase ISEfa4
+IBPFAHIO_02302	hypothetical protein
+IBPFAHIO_02303	hypothetical protein
+IBPFAHIO_02304	Methionine--tRNA ligase
+IBPFAHIO_02305	hypothetical protein
+IBPFAHIO_02306	Serine/threonine exchanger SteT
+IBPFAHIO_02307	D-aminoacyl-tRNA deacylase
+IBPFAHIO_02308	Ribonuclease M5
+IBPFAHIO_02309	Ribosomal RNA small subunit methyltransferase A
+IBPFAHIO_02310	Niacin transporter NiaX
+IBPFAHIO_02311	Oligosaccharides import ATP-binding protein MsmX
+IBPFAHIO_02312	Methylglyoxal synthase
+IBPFAHIO_02313	Folate transporter FolT
+IBPFAHIO_02314	putative ABC transporter ATP-binding protein
+IBPFAHIO_02315	putative ABC transporter ATP-binding protein
+IBPFAHIO_02316	hypothetical protein
+IBPFAHIO_02317	Transcriptional regulatory protein DagR
+IBPFAHIO_02318	PTS system mannose-specific EIIAB component
+IBPFAHIO_02319	putative phosphotransferase enzyme IIB component
+IBPFAHIO_02320	PTS system sorbose-specific EIIC component
+IBPFAHIO_02321	PTS system mannose-specific EIID component
+IBPFAHIO_02322	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+IBPFAHIO_02323	Fructosamine deglycase FrlB
+IBPFAHIO_02324	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+IBPFAHIO_02325	IS110 family transposase ISSpn10
+IBPFAHIO_02326	UTP--glucose-1-phosphate uridylyltransferase
+IBPFAHIO_02327	hypothetical protein
+IBPFAHIO_02328	hypothetical protein
+IBPFAHIO_02329	hypothetical protein
+IBPFAHIO_02330	Isoaspartyl dipeptidase
+IBPFAHIO_02331	hypothetical protein
+IBPFAHIO_02332	Lipoprotein-releasing system ATP-binding protein LolD
+IBPFAHIO_02333	hypothetical protein
+IBPFAHIO_02334	Ribonuclease J 2
+IBPFAHIO_02335	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+IBPFAHIO_02336	hypothetical protein
+IBPFAHIO_02337	Inosine-5'-monophosphate dehydrogenase
+IBPFAHIO_02338	putative bifunctional oligoribonuclease and PAP phosphatase NrnA
+IBPFAHIO_02339	hypothetical protein
+IBPFAHIO_02340	hypothetical protein
+IBPFAHIO_02341	hypothetical protein
+IBPFAHIO_02342	hypothetical protein
+IBPFAHIO_02343	Ribosomal RNA small subunit methyltransferase F
+IBPFAHIO_02344	hypothetical protein
+IBPFAHIO_02345	Leucine-rich protein
+IBPFAHIO_02346	tRNA-specific adenosine deaminase
+IBPFAHIO_02347	hypothetical protein
+IBPFAHIO_02348	hypothetical protein
+IBPFAHIO_02349	hypothetical protein
+IBPFAHIO_02350	Acid sugar phosphatase
+IBPFAHIO_02351	hypothetical protein
+IBPFAHIO_02352	putative protein YpjQ
+IBPFAHIO_02353	Ferredoxin--NADP reductase 2
+IBPFAHIO_02354	Putative peptidyl-prolyl cis-trans isomerase
+IBPFAHIO_02355	Cystathionine beta-lyase PatB
+IBPFAHIO_02356	General stress protein 13
+IBPFAHIO_02357	hypothetical protein
+IBPFAHIO_02359	IS3 family transposase IS1485
+IBPFAHIO_02360	IS3 family transposase IS1485
+IBPFAHIO_02361	hypothetical protein
+IBPFAHIO_02362	2-succinyl-6-hydroxy-2%2C4-cyclohexadiene-1-carboxylate synthase
+IBPFAHIO_02365	hypothetical protein
+IBPFAHIO_02366	Aminopeptidase C
+IBPFAHIO_02367	putative ketoamine kinase
+IBPFAHIO_02368	hypothetical protein
+IBPFAHIO_02369	L-asparaginase
+IBPFAHIO_02370	hypothetical protein
+IBPFAHIO_02371	Stress response protein YhaX
+IBPFAHIO_02372	hypothetical protein
+IBPFAHIO_02373	Septation ring formation regulator EzrA
+IBPFAHIO_02374	Cysteine desulfurase IscS
+IBPFAHIO_02375	putative tRNA sulfurtransferase
+IBPFAHIO_02376	putative tRNA sulfurtransferase
+IBPFAHIO_02377	Redox-sensing transcriptional repressor Rex
+IBPFAHIO_02378	Valine--tRNA ligase
+IBPFAHIO_02379	Folylpolyglutamate synthase
+IBPFAHIO_02380	Phosphorylated carbohydrates phosphatase
+IBPFAHIO_02381	hypothetical protein
+IBPFAHIO_02382	Cold shock-like protein CspLA
+IBPFAHIO_02383	Ribonuclease J 1
+IBPFAHIO_02384	hypothetical protein
+IBPFAHIO_02385	putative ABC transporter ATP-binding protein
+IBPFAHIO_02386	putative ABC transporter ATP-binding protein
+IBPFAHIO_02387	hypothetical protein
+IBPFAHIO_02388	Protein YrdA
+IBPFAHIO_02389	ATP-dependent Clp protease proteolytic subunit
+IBPFAHIO_02390	hypothetical protein
+IBPFAHIO_02391	Glycerophosphodiester phosphodiesterase
+IBPFAHIO_02392	tRNA dimethylallyltransferase
+IBPFAHIO_02393	GTPase HflX
+IBPFAHIO_02394	IS30 family transposase IS1252
+IBPFAHIO_02395	hypothetical protein
+IBPFAHIO_02396	Coenzyme A disulfide reductase
+IBPFAHIO_02397	HTH-type transcriptional activator RhaR
+IBPFAHIO_02398	putative arabinose-binding protein
+IBPFAHIO_02399	Lactose transport system permease protein LacF
+IBPFAHIO_02400	Lactose transport system permease protein LacG
+IBPFAHIO_02401	Unsaturated glucuronyl hydrolase
+IBPFAHIO_02402	hypothetical protein
+IBPFAHIO_02403	Unsaturated chondroitin disaccharide hydrolase
+IBPFAHIO_02404	putative ABC transporter ATP-binding protein YheS
+IBPFAHIO_02405	Redox-sensing transcriptional repressor Rex
+IBPFAHIO_02406	hypothetical protein
+IBPFAHIO_02407	Putative two-component membrane permease complex subunit SMU_747c
+IBPFAHIO_02408	Putative two-component membrane permease complex subunit SMU_746c
+IBPFAHIO_02409	hypothetical protein
+IBPFAHIO_02410	ABC transporter ATP-binding protein NatA
+IBPFAHIO_02411	hypothetical protein
+IBPFAHIO_02412	hypothetical protein
+IBPFAHIO_02413	hypothetical protein
+IBPFAHIO_02415	DNA-entry nuclease
+IBPFAHIO_02416	hypothetical protein
+IBPFAHIO_02417	Putative pre-16S rRNA nuclease
+IBPFAHIO_02418	hypothetical protein
+IBPFAHIO_02419	Tyrosine recombinase XerC
+IBPFAHIO_02420	hypothetical protein
+IBPFAHIO_02421	hypothetical protein
+IBPFAHIO_02422	hypothetical protein
+IBPFAHIO_02423	hypothetical protein
+IBPFAHIO_02424	hypothetical protein
+IBPFAHIO_02425	hypothetical protein
+IBPFAHIO_02426	hypothetical protein
+IBPFAHIO_02427	hypothetical protein
+IBPFAHIO_02428	hypothetical protein
+IBPFAHIO_02429	hypothetical protein
+IBPFAHIO_02430	hypothetical protein
+IBPFAHIO_02431	hypothetical protein
+IBPFAHIO_02432	hypothetical protein
+IBPFAHIO_02433	hypothetical protein
+IBPFAHIO_02434	hypothetical protein
+IBPFAHIO_02435	hypothetical protein
+IBPFAHIO_02436	hypothetical protein
+IBPFAHIO_02437	hypothetical protein
+IBPFAHIO_02438	hypothetical protein
+IBPFAHIO_02439	hypothetical protein
+IBPFAHIO_02440	hypothetical protein
+IBPFAHIO_02441	Citrate-sodium symporter
+IBPFAHIO_02442	Malolactic enzyme
+IBPFAHIO_02443	hypothetical protein
+IBPFAHIO_02444	4-hydroxymandelate oxidase
+IBPFAHIO_02445	hypothetical protein
+IBPFAHIO_02446	hypothetical protein
+IBPFAHIO_02447	hypothetical protein
+IBPFAHIO_02448	hypothetical protein
+IBPFAHIO_02449	hypothetical protein
+IBPFAHIO_02450	NADH oxidase
+IBPFAHIO_02451	putative ABC transporter permease
+IBPFAHIO_02452	Putative hemin import ATP-binding protein HrtA
+IBPFAHIO_02453	hypothetical protein
+IBPFAHIO_02454	hypothetical protein
+IBPFAHIO_02455	Ribonuclease HIII
+IBPFAHIO_02456	Cell division protein ZapA
+IBPFAHIO_02457	hypothetical protein
+IBPFAHIO_02458	Endonuclease MutS2
+IBPFAHIO_02459	Thioredoxin
+IBPFAHIO_02460	UvrABC system protein C
+IBPFAHIO_02461	Vitamin B12 import ATP-binding protein BtuD
+IBPFAHIO_02462	putative protein YhaP
+IBPFAHIO_02463	Fructose-1%2C6-bisphosphatase class 3
+IBPFAHIO_02464	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD
+IBPFAHIO_02465	hypothetical protein
+IBPFAHIO_02466	hypothetical protein
+IBPFAHIO_02467	V-type sodium ATPase subunit K
+IBPFAHIO_02468	V-type proton ATPase subunit E
+IBPFAHIO_02469	V-type sodium ATPase subunit C
+IBPFAHIO_02470	V-type sodium ATPase subunit G
+IBPFAHIO_02471	V-type sodium ATPase catalytic subunit A
+IBPFAHIO_02472	V-type sodium ATPase subunit B
+IBPFAHIO_02473	V-type sodium ATPase subunit D
+IBPFAHIO_02474	Potassium/sodium uptake protein NtpJ
+IBPFAHIO_02475	Histidinol-phosphate aminotransferase
+IBPFAHIO_02476	Delta(1)-pyrroline-2-carboxylate reductase
+IBPFAHIO_02477	putative isomerase YddE
+IBPFAHIO_02478	Lactoylglutathione lyase
+IBPFAHIO_02479	hypothetical protein
+IBPFAHIO_02480	Sugar phosphatase YidA
+IBPFAHIO_02481	hypothetical protein
+IBPFAHIO_02482	Octanoyl-[GcvH]:protein N-octanoyltransferase
+IBPFAHIO_02483	hypothetical protein
+IBPFAHIO_02484	putative DNA-directed RNA polymerase subunit delta
+IBPFAHIO_02485	RNA polymerase sigma factor SigV
+IBPFAHIO_02486	Anti-sigma-V factor RsiV
+IBPFAHIO_02487	hypothetical protein
+IBPFAHIO_02489	RNA polymerase sigma-54 factor 1
+IBPFAHIO_02490	Central glycolytic genes regulator
+IBPFAHIO_02491	Glyceraldehyde-3-phosphate dehydrogenase
+IBPFAHIO_02492	Phosphoglycerate kinase
+IBPFAHIO_02493	Triosephosphate isomerase
+IBPFAHIO_02494	Enolase
+IBPFAHIO_02495	hypothetical protein
+IBPFAHIO_02496	IS3 family transposase ISEnfa3
+IBPFAHIO_02497	ISL3 family transposase ISEfa11
+IBPFAHIO_02498	putative succinyl-diaminopimelate desuccinylase
+IBPFAHIO_02499	hypothetical protein
+IBPFAHIO_02500	Pyrimidine-specific ribonucleoside hydrolase RihB
+IBPFAHIO_02501	2-succinyl-6-hydroxy-2%2C4-cyclohexadiene-1-carboxylate synthase
+IBPFAHIO_02502	putative protein YjdJ
+IBPFAHIO_02503	putative protein-export membrane protein SecG
+IBPFAHIO_02504	Carboxylesterase
+IBPFAHIO_02505	Ribonuclease R
+IBPFAHIO_02506	SsrA-binding protein
+IBPFAHIO_02507	ATP synthase subunit a
+IBPFAHIO_02508	ATP synthase subunit c
+IBPFAHIO_02509	ATP synthase subunit b
+IBPFAHIO_02510	ATP synthase subunit delta
+IBPFAHIO_02511	ATP synthase subunit alpha
+IBPFAHIO_02512	ATP synthase gamma chain
+IBPFAHIO_02513	ATP synthase subunit beta
+IBPFAHIO_02514	ATP synthase epsilon chain
+IBPFAHIO_02515	hypothetical protein
+IBPFAHIO_02516	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+IBPFAHIO_02517	hypothetical protein
+IBPFAHIO_02518	Putative membrane protein insertion efficiency factor
+IBPFAHIO_02519	putative N-acetyltransferase YvbK
+IBPFAHIO_02520	Beta-glucoside kinase
+IBPFAHIO_02521	hypothetical protein
+IBPFAHIO_02524	hypothetical protein
+IBPFAHIO_02525	HTH-type transcriptional repressor NagR
+IBPFAHIO_02526	IMPACT family member YigZ
+IBPFAHIO_02527	hypothetical protein
+IBPFAHIO_02528	PTS system galactose-specific EIIB component
+IBPFAHIO_02529	ComF operon protein 1
+IBPFAHIO_02530	hypothetical protein
+IBPFAHIO_02531	Ribosome hibernation promotion factor
+IBPFAHIO_02532	Protein translocase subunit SecA
+IBPFAHIO_02533	Peptide chain release factor 2
+IBPFAHIO_02534	Cell division ATP-binding protein FtsE
+IBPFAHIO_02535	Cell division protein FtsX
+IBPFAHIO_02536	Major cardiolipin synthase ClsA
+IBPFAHIO_02537	Phosphate-binding protein PstS 1
+IBPFAHIO_02538	hypothetical protein
+IBPFAHIO_02539	hypothetical protein
+IBPFAHIO_02540	Phosphate import ATP-binding protein PstB 3
+IBPFAHIO_02541	Phosphate import ATP-binding protein PstB 3
+IBPFAHIO_02542	Phosphate-specific transport system accessory protein PhoU 
+IBPFAHIO_02543	hypothetical protein
+IBPFAHIO_02544	hypothetical protein
+IBPFAHIO_02545	hypothetical protein
+IBPFAHIO_02546	hypothetical protein
+IBPFAHIO_02547	hypothetical protein
+IBPFAHIO_02548	ISL3 family transposase ISEfa5
+IBPFAHIO_02549	HPr kinase/phosphorylase
+IBPFAHIO_02550	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+IBPFAHIO_02551	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+IBPFAHIO_02552	UTP--glucose-1-phosphate uridylyltransferase
+IBPFAHIO_02553	hypothetical protein
+IBPFAHIO_02554	hypothetical protein
+IBPFAHIO_02555	Xaa-Pro dipeptidase
+IBPFAHIO_02556	Catabolite control protein A
+IBPFAHIO_02557	Penicillin-binding protein 1A/1B
+IBPFAHIO_02558	putative endonuclease 4
+IBPFAHIO_02559	IS110 family transposase ISBth13
+IBPFAHIO_02560	hypothetical protein
+IBPFAHIO_02561	Divalent metal cation transporter MntH
+IBPFAHIO_02562	hypothetical protein
+IBPFAHIO_02563	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+IBPFAHIO_02564	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+IBPFAHIO_02565	Transcription antiterminator LicT
+IBPFAHIO_02566	PTS system beta-glucoside-specific EIIBCA component
+IBPFAHIO_02567	HTH-type transcriptional regulator MurR
+IBPFAHIO_02568	putative 6-phospho-beta-glucosidase
+IBPFAHIO_02569	Aryl-phospho-beta-D-glucosidase BglH
+IBPFAHIO_02570	Thioredoxin reductase
+IBPFAHIO_02571	Phosphoglucomutase
+IBPFAHIO_02572	HTH-type transcriptional repressor CzrA
+IBPFAHIO_02573	Putative pyruvate%2C phosphate dikinase regulatory protein
+IBPFAHIO_02574	Zinc-specific metallo-regulatory protein
+IBPFAHIO_02575	30S ribosomal protein S21
+IBPFAHIO_02576	putative protein YqeY
+IBPFAHIO_02577	Branched-chain amino acid transport system 2 carrier protein
+IBPFAHIO_02578	PhoH-like protein
+IBPFAHIO_02579	Cyclic-di-AMP phosphodiesterase PgpH
+IBPFAHIO_02580	Endoribonuclease YbeY
+IBPFAHIO_02581	Undecaprenol kinase
+IBPFAHIO_02582	GTPase Era
+IBPFAHIO_02583	DNA repair protein RecO
+IBPFAHIO_02584	Glycine--tRNA ligase alpha subunit
+IBPFAHIO_02585	Glycine--tRNA ligase beta subunit
+IBPFAHIO_02586	hypothetical protein
+IBPFAHIO_02587	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+IBPFAHIO_02588	putative capsular polysaccharide biosynthesis protein YwqC
+IBPFAHIO_02589	Tyrosine-protein kinase YwqD
+IBPFAHIO_02590	Tyrosine-protein phosphatase YwqE
+IBPFAHIO_02591	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+IBPFAHIO_02592	hypothetical protein
+IBPFAHIO_02593	Phosphoglycolate phosphatase
+IBPFAHIO_02594	Putative pyridoxal phosphate-dependent aminotransferase EpsN
+IBPFAHIO_02595	putative sugar transferase EpsL
+IBPFAHIO_02596	N%2CN'-diacetylbacillosaminyl-diphospho-undecaprenol alpha-1%2C3-N-acetylgalactosaminyltransferase
+IBPFAHIO_02597	hypothetical protein
+IBPFAHIO_02598	hypothetical protein
+IBPFAHIO_02599	hypothetical protein
+IBPFAHIO_02600	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1%2C4-N-acetyl-D-galactosaminyltransferase
+IBPFAHIO_02601	hypothetical protein
+IBPFAHIO_02602	hypothetical protein
+IBPFAHIO_02603	hypothetical protein
+IBPFAHIO_02604	IS256 family transposase IS256
+IBPFAHIO_02605	UDP-N-acetylglucosamine 4-epimerase
+IBPFAHIO_02606	UDP-glucose 6-dehydrogenase
+IBPFAHIO_02607	HTH-type transcriptional regulator GlvR
+IBPFAHIO_02608	ATP-dependent 6-phosphofructokinase isozyme 2
+IBPFAHIO_02609	PTS system fructose-specific EIIABC component
+IBPFAHIO_02610	PTS system 2-O-alpha-mannosyl-D-glycerate-specific EIIABC component
+IBPFAHIO_02611	Tagatose 1%2C6-diphosphate aldolase 2
+IBPFAHIO_02612	Membrane protein insertase YidC
+IBPFAHIO_02613	Acylphosphatase
+IBPFAHIO_02614	Putative TrmH family tRNA/rRNA methyltransferase
+IBPFAHIO_02615	hypothetical protein
+IBPFAHIO_02616	hypothetical protein
+IBPFAHIO_02617	Chloride/fluoride channel protein
+IBPFAHIO_02618	hypothetical protein
+IBPFAHIO_02619	D-alanyl-D-alanine carboxypeptidase DacA
+IBPFAHIO_02620	hypothetical protein
+IBPFAHIO_02621	hypothetical protein
+IBPFAHIO_02622	hypothetical protein
+IBPFAHIO_02623	hypothetical protein
+IBPFAHIO_02624	Cold shock-like protein CspLA
+IBPFAHIO_02625	3'-5' exonuclease DinG
+IBPFAHIO_02626	hypothetical protein
+IBPFAHIO_02627	Asparagine--oxo-acid transaminase
+IBPFAHIO_02628	Asparagine--tRNA ligase
+IBPFAHIO_02629	Acetylxylan esterase
+IBPFAHIO_02630	hypothetical protein
+IBPFAHIO_02631	Inner membrane protein YccF
+IBPFAHIO_02632	Cadmium%2C zinc and cobalt-transporting ATPase
+IBPFAHIO_02633	Inner membrane transporter YcaM
+IBPFAHIO_02634	ISL3 family transposase ISEfa5
+IBPFAHIO_02635	hypothetical protein
+IBPFAHIO_02636	Transcriptional repressor CopY
+IBPFAHIO_02637	Copper chaperone CopZ
+IBPFAHIO_02638	putative copper-importing P-type ATPase A
+IBPFAHIO_02639	Copper-exporting P-type ATPase B
+IBPFAHIO_02640	hypothetical protein
+IBPFAHIO_02641	hypothetical protein
+IBPFAHIO_02642	hypothetical protein
+IBPFAHIO_02643	hypothetical protein
+IBPFAHIO_02644	hypothetical protein
+IBPFAHIO_02645	hypothetical protein
+IBPFAHIO_02646	hypothetical protein
+IBPFAHIO_02647	hypothetical protein
+IBPFAHIO_02648	Autolysin
+IBPFAHIO_02649	hypothetical protein
+IBPFAHIO_02650	IS3 family transposase ISEnfa3
+IBPFAHIO_02651	hypothetical protein
+IBPFAHIO_02652	IS256 family transposase ISEf1
+IBPFAHIO_02653	hypothetical protein
+IBPFAHIO_02654	IS3 family transposase ISEnfa3
+IBPFAHIO_02655	hypothetical protein
+IBPFAHIO_02656	hypothetical protein
+IBPFAHIO_02657	IS110 family transposase ISSpn10
+IBPFAHIO_02658	Choloylglycine hydrolase
+IBPFAHIO_02659	ISL3 family transposase ISEfa5
+IBPFAHIO_02660	IS256 family transposase IS16
+IBPFAHIO_02661	hypothetical protein
+IBPFAHIO_02662	hypothetical protein
+IBPFAHIO_02663	hypothetical protein
+IBPFAHIO_02664	Phosphate-binding protein PstS 1
+IBPFAHIO_02665	ISL3 family transposase IS1251
+IBPFAHIO_02666	ISL3 family transposase IS1476
+IBPFAHIO_02667	Calcium-transporting ATPase CtpE
+IBPFAHIO_02668	Alkaline phosphatase synthesis sensor protein PhoR
+IBPFAHIO_02669	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+IBPFAHIO_02670	hypothetical protein
+IBPFAHIO_02671	hypothetical protein
+IBPFAHIO_02672	Signal recognition particle protein
+IBPFAHIO_02673	DNA-3-methyladenine glycosylase 1
+IBPFAHIO_02674	IS1595 family transposase ISCac2
+IBPFAHIO_02675	Quinone reductase
+IBPFAHIO_02676	30S ribosomal protein S16
+IBPFAHIO_02677	hypothetical protein
+IBPFAHIO_02678	hypothetical protein
+IBPFAHIO_02679	Ribosome maturation factor RimM
+IBPFAHIO_02680	tRNA (guanine-N(1)-)-methyltransferase
+IBPFAHIO_02681	50S ribosomal protein L19
+IBPFAHIO_02682	hypothetical protein
+IBPFAHIO_02683	hypothetical protein
+IBPFAHIO_02684	hypothetical protein
+IBPFAHIO_02685	hypothetical protein
+IBPFAHIO_02686	hypothetical protein
+IBPFAHIO_02687	hypothetical protein
+IBPFAHIO_02688	hypothetical protein
+IBPFAHIO_02689	hypothetical protein
+IBPFAHIO_02690	IS1595 family transposase ISCco3
+IBPFAHIO_02691	hypothetical protein
+IBPFAHIO_02692	hypothetical protein
+IBPFAHIO_02693	hypothetical protein
+IBPFAHIO_02694	hypothetical protein
+IBPFAHIO_02695	hypothetical protein
+IBPFAHIO_02696	hypothetical protein
+IBPFAHIO_02697	hypothetical protein
+IBPFAHIO_02698	hypothetical protein
+IBPFAHIO_02699	hypothetical protein
+IBPFAHIO_02700	IS256 family transposase IS16
+IBPFAHIO_02701	hypothetical protein
+IBPFAHIO_02702	hypothetical protein
+IBPFAHIO_02703	hypothetical protein
+IBPFAHIO_02704	IS21 family transposase ISCth15
+IBPFAHIO_02705	hypothetical protein
+IBPFAHIO_02706	IS4 family transposase IS4Bsu1
+IBPFAHIO_02707	IS30 family transposase IS1252
+IBPFAHIO_02708	hypothetical protein
+IBPFAHIO_02709	IS3 family transposase ISEfa8
+IBPFAHIO_02710	IS3 family transposase ISEfa8
+IBPFAHIO_02711	HTH-type transcriptional regulator DegA
+IBPFAHIO_02712	Beta-fructosidase
+IBPFAHIO_02713	PTS system trehalose-specific EIIBC component
+IBPFAHIO_02714	hypothetical protein
+IBPFAHIO_02715	Putative fructokinase
+IBPFAHIO_02716	Transcriptional regulatory protein DagR
+IBPFAHIO_02717	hypothetical protein
+IBPFAHIO_02718	N-acetylgalactosamine permease IIC component 1
+IBPFAHIO_02719	PTS system mannose-specific EIID component
+IBPFAHIO_02720	PTS system mannose-specific EIIAB component
+IBPFAHIO_02721	hypothetical protein
+IBPFAHIO_02722	hypothetical protein
+IBPFAHIO_02723	hypothetical protein
+IBPFAHIO_02724	hypothetical protein
+IBPFAHIO_02725	hypothetical protein
+IBPFAHIO_02726	IS66 family transposase ISRob1
+IBPFAHIO_02727	hypothetical protein
+IBPFAHIO_02728	hypothetical protein
+IBPFAHIO_02729	hypothetical protein
+IBPFAHIO_02730	hypothetical protein
+IBPFAHIO_02731	Tyrosine recombinase XerC
+IBPFAHIO_02732	hypothetical protein
+IBPFAHIO_02733	hypothetical protein
+IBPFAHIO_02734	hypothetical protein
+IBPFAHIO_02735	hypothetical protein
+IBPFAHIO_02736	hypothetical protein
+IBPFAHIO_02737	hypothetical protein
+IBPFAHIO_02738	hypothetical protein
+IBPFAHIO_02739	hypothetical protein
+IBPFAHIO_02740	hypothetical protein
+IBPFAHIO_02741	hypothetical protein
+IBPFAHIO_02742	Putative metabolite transport protein YjhB
+IBPFAHIO_02743	HTH-type transcriptional regulator AdhR
+IBPFAHIO_02744	HTH-type transcriptional regulator HdfR
+IBPFAHIO_02745	hypothetical protein
+IBPFAHIO_02746	ISL3 family transposase ISEfa11
+IBPFAHIO_02747	L-arabinose transport system permease protein AraQ
+IBPFAHIO_02748	hypothetical protein
+IBPFAHIO_02749	IS256 family transposase ISEf1
+IBPFAHIO_02750	Acetolactate synthase
+IBPFAHIO_02751	Acetolactate synthase
+IBPFAHIO_02752	hypothetical protein
+IBPFAHIO_02753	IS6 family transposase IS1216V
+IBPFAHIO_02754	hypothetical protein
+IBPFAHIO_02755	hypothetical protein
+IBPFAHIO_02756	hypothetical protein
+IBPFAHIO_02757	Fructosamine deglycase FrlB
+IBPFAHIO_02758	hypothetical protein
+IBPFAHIO_02759	putative phosphotransferase enzyme IIB component
+IBPFAHIO_02760	PTS system sorbose-specific EIIC component
+IBPFAHIO_02761	PTS system mannose-specific EIID component
+IBPFAHIO_02762	IS6 family transposase IS1216E
+IBPFAHIO_02763	PTS system beta-glucoside-specific EIIBCA component
+IBPFAHIO_02764	Aryl-phospho-beta-D-glucosidase BglH
+IBPFAHIO_02765	Transcription antiterminator LicT
+IBPFAHIO_02766	ISL3 family transposase IS1251
+IBPFAHIO_02767	PTS system beta-glucoside-specific EIIBCA component
+IBPFAHIO_02768	hypothetical protein
+IBPFAHIO_02769	hypothetical protein
+IBPFAHIO_02770	IS30 family transposase IS6770
+IBPFAHIO_02771	hypothetical protein
+IBPFAHIO_02772	hypothetical protein
+IBPFAHIO_02773	IS256 family transposase ISEf1
+IBPFAHIO_02774	IS30 family transposase IS6770
+IBPFAHIO_02775	IS256 family transposase ISEf1
+IBPFAHIO_02776	hypothetical protein
+IBPFAHIO_02777	Organic hydroperoxide resistance protein OhrB
+IBPFAHIO_02778	hypothetical protein
+IBPFAHIO_02779	Type-1 restriction enzyme EcoKI specificity protein
+IBPFAHIO_02780	hypothetical protein
+IBPFAHIO_02781	hypothetical protein
+IBPFAHIO_02782	IS30 family transposase IS1252
+IBPFAHIO_02783	hypothetical protein
+IBPFAHIO_02784	Protein adenylyltransferase NmFic
+IBPFAHIO_02785	IS982 family transposase ISEfm1
+IBPFAHIO_02786	Tyrosine recombinase XerC
+IBPFAHIO_02787	hypothetical protein
+IBPFAHIO_02788	IS200/IS605 family transposase ISEfa4
+IBPFAHIO_02789	hypothetical protein
+IBPFAHIO_02790	IS30 family transposase IS1062
+IBPFAHIO_02791	hypothetical protein
+IBPFAHIO_02792	IS3 family transposase ISEfa8
+IBPFAHIO_02793	IS3 family transposase ISEfa8
+IBPFAHIO_02794	hypothetical protein
+IBPFAHIO_02795	Thiol-disulfide oxidoreductase ResA
+IBPFAHIO_02796	IS3 family transposase ISEfa8
+IBPFAHIO_02797	IS3 family transposase ISEfa8
+IBPFAHIO_02798	hypothetical protein
+IBPFAHIO_02799	putative ABC transporter ATP-binding protein
+IBPFAHIO_02800	hypothetical protein
+IBPFAHIO_02801	hypothetical protein
+IBPFAHIO_02802	hypothetical protein
+IBPFAHIO_02803	IS66 family transposase ISRob1
+IBPFAHIO_02804	ISL3 family transposase ISEfa5
+IBPFAHIO_02805	hypothetical protein
+IBPFAHIO_02806	IS1182 family transposase ISEfa7
+IBPFAHIO_02807	Choline trimethylamine-lyase activating enzyme
+IBPFAHIO_02808	Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+IBPFAHIO_02809	hypothetical protein
+IBPFAHIO_02810	Histidinol-phosphatase
+IBPFAHIO_02811	hypothetical protein
+IBPFAHIO_02812	hypothetical protein
+IBPFAHIO_02813	hypothetical protein
+IBPFAHIO_02814	hypothetical protein
+IBPFAHIO_02815	Vitamin B12 import ATP-binding protein BtuD
+IBPFAHIO_02816	ISL3 family transposase IS1476
+IBPFAHIO_02817	putative response regulatory protein
+IBPFAHIO_02818	hypothetical protein
+IBPFAHIO_02819	putative multiple-sugar transport system permease YteP
+IBPFAHIO_02820	L-arabinose transport system permease protein AraQ
+IBPFAHIO_02821	hypothetical protein
+IBPFAHIO_02822	hypothetical protein
+IBPFAHIO_02823	hypothetical protein
+IBPFAHIO_02824	hypothetical protein
+IBPFAHIO_02825	Evolved beta-galactosidase subunit alpha
+IBPFAHIO_02826	hypothetical protein
+IBPFAHIO_02827	hypothetical protein
+IBPFAHIO_02828	GMP synthase [glutamine-hydrolyzing]
+IBPFAHIO_02829	ISL3 family transposase IS1476
+IBPFAHIO_02830	Transcriptional regulatory protein QseB
+IBPFAHIO_02831	hypothetical protein
+IBPFAHIO_02832	IS256 family transposase ISEf1
+IBPFAHIO_02833	hypothetical protein
+IBPFAHIO_02834	IS200/IS605 family transposase ISEfa4
+IBPFAHIO_02835	hypothetical protein
+IBPFAHIO_02836	ISL3 family transposase ISEfa5
+IBPFAHIO_02837	IS256 family transposase ISBsu2
+IBPFAHIO_02838	IS256 family transposase ISBsu2
+IBPFAHIO_02839	IS3 family transposase ISEnfa3
+IBPFAHIO_02840	hypothetical protein
+IBPFAHIO_02841	IS3 family transposase IS1485
+IBPFAHIO_02842	IS3 family transposase IS1485
+IBPFAHIO_02843	PTS system glucose-specific EIIA component
+IBPFAHIO_02844	Alpha-galactosidase AgaA
+IBPFAHIO_02845	HTH-type transcriptional activator RhaS
+IBPFAHIO_02846	Sucrose-6-phosphate hydrolase
+IBPFAHIO_02847	PTS system trehalose-specific EIIBC component
+IBPFAHIO_02848	IS200/IS605 family transposase ISEfa4
+IBPFAHIO_02849	hypothetical protein
+IBPFAHIO_02850	IS1182 family transposase ISEfa12
+IBPFAHIO_02851	IS3 family transposase IS1485
+IBPFAHIO_02852	HTH-type transcriptional repressor NagR
+IBPFAHIO_02853	D-galactosamine-6-phosphate deaminase AgaS
+IBPFAHIO_02854	Tagatose 1%2C6-diphosphate aldolase
+IBPFAHIO_02855	hypothetical protein
+IBPFAHIO_02856	Lichenan permease IIC component
+IBPFAHIO_02857	IS30 family transposase IS1252
+IBPFAHIO_02858	Tyrosine recombinase XerS
+IBPFAHIO_02859	hypothetical protein
+IBPFAHIO_02860	IS3 family transposase IS1485
+IBPFAHIO_02861	hypothetical protein
+IBPFAHIO_02862	IS110 family transposase ISSpn10
+IBPFAHIO_02863	PTS system glucoside-specific EIICBA component
+IBPFAHIO_02864	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+IBPFAHIO_02865	HTH-type transcriptional regulator RpiR
+IBPFAHIO_02866	hypothetical protein
+IBPFAHIO_02867	IS1380 family transposase IS1678
+IBPFAHIO_02868	hypothetical protein
+IBPFAHIO_02869	IS200/IS605 family transposase ISAac3
+IBPFAHIO_02870	IS3 family transposase ISEfa10
+IBPFAHIO_02871	IS3 family transposase ISEfa10
+IBPFAHIO_02872	HTH-type transcriptional regulator DegA
+IBPFAHIO_02873	Sucrose-6-phosphate hydrolase
+IBPFAHIO_02874	hypothetical protein
+IBPFAHIO_02875	IS256 family transposase IS256
+IBPFAHIO_02876	Putative fructokinase
+IBPFAHIO_02877	hypothetical protein
+IBPFAHIO_02878	IS6 family transposase IS1216V
+IBPFAHIO_02879	hypothetical protein
+IBPFAHIO_02880	Tyrosine recombinase XerC
+IBPFAHIO_02881	hypothetical protein
+IBPFAHIO_02882	hypothetical protein
+IBPFAHIO_02883	IS66 family transposase ISCth11
+IBPFAHIO_02884	3-hexulose-6-phosphate isomerase
+IBPFAHIO_02885	Ribulose-phosphate 3-epimerase
+IBPFAHIO_02886	hypothetical protein
+IBPFAHIO_02887	hypothetical protein
+IBPFAHIO_02888	PTS system galactitol-specific EIIC component
+IBPFAHIO_02889	hypothetical protein
+IBPFAHIO_02890	Transcriptional regulator ManR
+IBPFAHIO_02891	IS256 family transposase ISEf1
+IBPFAHIO_02892	hypothetical protein
+IBPFAHIO_02893	hypothetical protein
+IBPFAHIO_02894	IS30 family transposase IS1252
+IBPFAHIO_02895	hypothetical protein
+IBPFAHIO_02896	hypothetical protein
+IBPFAHIO_02897	hypothetical protein
+IBPFAHIO_02898	hypothetical protein
+IBPFAHIO_02899	hypothetical protein
+IBPFAHIO_02900	hypothetical protein
+IBPFAHIO_02901	hypothetical protein
+IBPFAHIO_02902	hypothetical protein
+IBPFAHIO_02903	Single-stranded DNA-binding protein
+IBPFAHIO_02904	Single-stranded DNA-binding protein A
+IBPFAHIO_02905	hypothetical protein
+IBPFAHIO_02906	hypothetical protein
+IBPFAHIO_02907	hypothetical protein
+IBPFAHIO_02908	DNA topoisomerase 3
+IBPFAHIO_02909	hypothetical protein
+IBPFAHIO_02910	hypothetical protein
+IBPFAHIO_02911	IS110 family transposase ISSpn10
+IBPFAHIO_02912	hypothetical protein
+IBPFAHIO_02913	hypothetical protein
+IBPFAHIO_02914	hypothetical protein
+IBPFAHIO_02915	hypothetical protein
+IBPFAHIO_02916	hypothetical protein
+IBPFAHIO_02917	hypothetical protein
+IBPFAHIO_02918	hypothetical protein
+IBPFAHIO_02919	hypothetical protein
+IBPFAHIO_02920	hypothetical protein
+IBPFAHIO_02921	hypothetical protein
+IBPFAHIO_02922	hypothetical protein
+IBPFAHIO_02923	hypothetical protein
+IBPFAHIO_02924	hypothetical protein
+IBPFAHIO_02925	hypothetical protein
+IBPFAHIO_02926	hypothetical protein
+IBPFAHIO_02927	hypothetical protein
+IBPFAHIO_02928	hypothetical protein
+IBPFAHIO_02929	hypothetical protein
+IBPFAHIO_02930	hypothetical protein
+IBPFAHIO_02931	hypothetical protein
+IBPFAHIO_02932	hypothetical protein
+IBPFAHIO_02933	hypothetical protein
+IBPFAHIO_02934	hypothetical protein
+IBPFAHIO_02935	hypothetical protein
+IBPFAHIO_02936	hypothetical protein
+IBPFAHIO_02937	hypothetical protein
+IBPFAHIO_02938	Sortase A
+IBPFAHIO_02939	hypothetical protein
+IBPFAHIO_02940	hypothetical protein
+IBPFAHIO_02941	hypothetical protein
+IBPFAHIO_02942	hypothetical protein
+IBPFAHIO_02943	hypothetical protein
+IBPFAHIO_02944	hypothetical protein
+IBPFAHIO_02945	hypothetical protein
+IBPFAHIO_02946	hypothetical protein
+IBPFAHIO_02947	hypothetical protein
+IBPFAHIO_02948	hypothetical protein
+IBPFAHIO_02949	ISL3 family transposase ISEfa5
+IBPFAHIO_02950	ISL3 family transposase ISEfa5
+IBPFAHIO_02951	ISL3 family transposase ISEfa5
+IBPFAHIO_02952	hypothetical protein
+IBPFAHIO_02953	hypothetical protein
+IBPFAHIO_02954	hypothetical protein
+IBPFAHIO_02955	hypothetical protein
+IBPFAHIO_02956	DNA topoisomerase 3
+IBPFAHIO_02957	hypothetical protein
+IBPFAHIO_02958	hypothetical protein
+IBPFAHIO_02959	hypothetical protein
+IBPFAHIO_02960	Single-stranded DNA-binding protein
+IBPFAHIO_02961	hypothetical protein
+IBPFAHIO_02962	hypothetical protein
+IBPFAHIO_02963	hypothetical protein
+IBPFAHIO_02964	hypothetical protein
+IBPFAHIO_02965	hypothetical protein
+IBPFAHIO_02966	hypothetical protein
+IBPFAHIO_02967	hypothetical protein
+IBPFAHIO_02968	hypothetical protein
+IBPFAHIO_02969	hypothetical protein
+IBPFAHIO_02970	Endoribonuclease PemK
+IBPFAHIO_02971	Putative transposon Tn552 DNA-invertase bin3
+IBPFAHIO_02972	Protein UmuC
+IBPFAHIO_02973	hypothetical protein
+IBPFAHIO_02974	hypothetical protein
+IBPFAHIO_02975	hypothetical protein
+IBPFAHIO_02976	hypothetical protein
+IBPFAHIO_02977	hypothetical protein
+IBPFAHIO_02978	hypothetical protein
+IBPFAHIO_02979	hypothetical protein
+IBPFAHIO_02980	hypothetical protein
+IBPFAHIO_02981	hypothetical protein
+IBPFAHIO_02982	hypothetical protein
+IBPFAHIO_02983	hypothetical protein
+IBPFAHIO_02984	hypothetical protein
+IBPFAHIO_02985	hypothetical protein
+IBPFAHIO_02986	hypothetical protein
+IBPFAHIO_02987	hypothetical protein
+IBPFAHIO_02988	IS110 family transposase ISSpn10
+IBPFAHIO_02989	hypothetical protein
+IBPFAHIO_02990	hypothetical protein
+IBPFAHIO_02991	hypothetical protein
+IBPFAHIO_02992	hypothetical protein
+IBPFAHIO_02993	hypothetical protein
+IBPFAHIO_02994	hypothetical protein
+IBPFAHIO_02995	hypothetical protein
+IBPFAHIO_02996	hypothetical protein
+IBPFAHIO_02997	hypothetical protein
+IBPFAHIO_02998	hypothetical protein
+IBPFAHIO_02999	hypothetical protein
+IBPFAHIO_03000	hypothetical protein
+IBPFAHIO_03001	hypothetical protein
+IBPFAHIO_03002	hypothetical protein
+IBPFAHIO_03003	hypothetical protein
+IBPFAHIO_03004	hypothetical protein
+IBPFAHIO_03005	hypothetical protein
+IBPFAHIO_03006	hypothetical protein
+IBPFAHIO_03007	hypothetical protein
+IBPFAHIO_03008	hypothetical protein
+IBPFAHIO_03009	hypothetical protein
+IBPFAHIO_03010	hypothetical protein
+IBPFAHIO_03011	hypothetical protein
+IBPFAHIO_03012	hypothetical protein
+IBPFAHIO_03013	hypothetical protein
+IBPFAHIO_03014	hypothetical protein
+IBPFAHIO_03015	hypothetical protein
+IBPFAHIO_03016	hypothetical protein
+IBPFAHIO_03017	IS6 family transposase IS1216E
+IBPFAHIO_03018	Transcriptional regulatory protein WalR
+IBPFAHIO_03019	Adaptive-response sensory-kinase SasA
+IBPFAHIO_03020	D-specific alpha-keto acid dehydrogenase
+IBPFAHIO_03021	Vancomycin/teicoplanin A-type resistance protein VanA
+IBPFAHIO_03022	D-alanyl-D-alanine dipeptidase
+IBPFAHIO_03023	IS6 family transposase IS1216E
+IBPFAHIO_03024	hypothetical protein
+IBPFAHIO_03025	hypothetical protein
+IBPFAHIO_03026	hypothetical protein
+IBPFAHIO_03027	hypothetical protein
+IBPFAHIO_03028	hypothetical protein
+IBPFAHIO_03029	Putative transposon Tn552 DNA-invertase bin3
+IBPFAHIO_03030	hypothetical protein
+IBPFAHIO_03031	IS6 family transposase IS1216E
+IBPFAHIO_03032	hypothetical protein
+IBPFAHIO_03033	hypothetical protein
+IBPFAHIO_03034	hypothetical protein
+IBPFAHIO_03035	hypothetical protein
+IBPFAHIO_03036	Putative transposon Tn552 DNA-invertase bin3
+IBPFAHIO_03037	DNA ligase
+IBPFAHIO_03038	hypothetical protein
+IBPFAHIO_03039	Putative transposon Tn552 DNA-invertase bin3
+IBPFAHIO_03040	Tn3 family transposase TnBth1
+IBPFAHIO_03041	IS6 family transposase IS1216E
+IBPFAHIO_03042	hypothetical protein
+IBPFAHIO_03043	Replication initiation protein
+IBPFAHIO_03044	IS6 family transposase IS1216E
+IBPFAHIO_03045	hypothetical protein
+IBPFAHIO_03046	hypothetical protein
+IBPFAHIO_03047	hypothetical protein
+IBPFAHIO_03048	hypothetical protein
+IBPFAHIO_03049	hypothetical protein
+IBPFAHIO_03050	Replication initiation protein
+IBPFAHIO_03051	IS6 family transposase IS1216E
+IBPFAHIO_03052	hypothetical protein
+IBPFAHIO_03053	hypothetical protein
+IBPFAHIO_03054	Sporulation initiation inhibitor protein Soj
+IBPFAHIO_03055	hypothetical protein
+IBPFAHIO_03056	hypothetical protein
+IBPFAHIO_03057	IS6 family transposase IS1216E
+IBPFAHIO_03058	Regulator of RpoS
+IBPFAHIO_03059	Sensor protein kinase WalK
+IBPFAHIO_03060	D-specific alpha-keto acid dehydrogenase
+IBPFAHIO_03061	Vancomycin/teicoplanin A-type resistance protein VanA
+IBPFAHIO_03062	hypothetical protein
+IBPFAHIO_03063	hypothetical protein
+IBPFAHIO_03064	hypothetical protein
+IBPFAHIO_03065	hypothetical protein
+IBPFAHIO_03066	hypothetical protein
+IBPFAHIO_03067	hypothetical protein
+IBPFAHIO_03068	hypothetical protein
+IBPFAHIO_03069	hypothetical protein
+IBPFAHIO_03070	hypothetical protein
+IBPFAHIO_03071	hypothetical protein
+IBPFAHIO_03072	hypothetical protein
+IBPFAHIO_03073	Group II intron-encoded protein LtrA
+IBPFAHIO_03074	hypothetical protein
+IBPFAHIO_03075	hypothetical protein
+IBPFAHIO_03076	hypothetical protein
+IBPFAHIO_03077	hypothetical protein
+IBPFAHIO_03078	hypothetical protein
+IBPFAHIO_03079	hypothetical protein
+IBPFAHIO_03080	hypothetical protein
+IBPFAHIO_03081	hypothetical protein
+IBPFAHIO_03082	IS6 family transposase IS1216V
+IBPFAHIO_03083	hypothetical protein
+IBPFAHIO_03084	hypothetical protein
+IBPFAHIO_03085	hypothetical protein
+IBPFAHIO_03086	hypothetical protein
+IBPFAHIO_03087	hypothetical protein
+IBPFAHIO_03088	hypothetical protein
+IBPFAHIO_03089	hypothetical protein
+IBPFAHIO_03090	hypothetical protein
+IBPFAHIO_03091	Putative transposon Tn552 DNA-invertase bin3
+IBPFAHIO_03092	Protein UmuC
+IBPFAHIO_03093	hypothetical protein
+IBPFAHIO_03094	hypothetical protein
+IBPFAHIO_03095	hypothetical protein
+IBPFAHIO_03096	Sporulation initiation inhibitor protein Soj
+IBPFAHIO_03097	hypothetical protein
+IBPFAHIO_03098	hypothetical protein
+IBPFAHIO_03099	IS6 family transposase IS1216V
+IBPFAHIO_03100	hypothetical protein
+IBPFAHIO_03101	hypothetical protein
+IBPFAHIO_03102	hypothetical protein
+IBPFAHIO_03103	hypothetical protein
+IBPFAHIO_03104	hypothetical protein
+IBPFAHIO_03105	Toxin YoeB
+IBPFAHIO_03106	hypothetical protein
+IBPFAHIO_03107	hypothetical protein
+IBPFAHIO_03108	hypothetical protein
+IBPFAHIO_03109	hypothetical protein
+IBPFAHIO_03110	hypothetical protein
+IBPFAHIO_03111	hypothetical protein
+IBPFAHIO_03112	hypothetical protein
+IBPFAHIO_03113	hypothetical protein
+IBPFAHIO_03114	hypothetical protein
+IBPFAHIO_03115	hypothetical protein
+IBPFAHIO_03116	hypothetical protein
+IBPFAHIO_03117	hypothetical protein
+IBPFAHIO_03118	ABC transporter ATP-binding protein YxdL
+IBPFAHIO_03119	hypothetical protein
+IBPFAHIO_03120	hypothetical protein
+IBPFAHIO_03121	hypothetical protein
+IBPFAHIO_03122	hypothetical protein
+IBPFAHIO_03123	hypothetical protein
+IBPFAHIO_03124	hypothetical protein
+IBPFAHIO_03125	hypothetical protein
+IBPFAHIO_03126	hypothetical protein
+IBPFAHIO_03127	hypothetical protein
+IBPFAHIO_03128	hypothetical protein
+IBPFAHIO_03129	hypothetical protein
+IBPFAHIO_03130	hypothetical protein
+IBPFAHIO_03131	hypothetical protein
+IBPFAHIO_03132	hypothetical protein
+IBPFAHIO_03133	hypothetical protein
+IBPFAHIO_03134	hypothetical protein
+IBPFAHIO_03135	hypothetical protein
+IBPFAHIO_03136	hypothetical protein
+IBPFAHIO_03137	hypothetical protein
+IBPFAHIO_03138	hypothetical protein
+IBPFAHIO_03139	hypothetical protein
+IBPFAHIO_03140	hypothetical protein
+IBPFAHIO_03141	hypothetical protein
+IBPFAHIO_03142	hypothetical protein
+IBPFAHIO_03143	hypothetical protein
+IBPFAHIO_03144	hypothetical protein
+IBPFAHIO_03145	hypothetical protein
+IBPFAHIO_03146	hypothetical protein
+IBPFAHIO_03147	hypothetical protein
+IBPFAHIO_03148	hypothetical protein
+IBPFAHIO_03149	hypothetical protein
+IBPFAHIO_03150	hypothetical protein
+IBPFAHIO_03151	hypothetical protein
+IBPFAHIO_03152	hypothetical protein
+IBPFAHIO_03153	hypothetical protein
+IBPFAHIO_03154	hypothetical protein
+IBPFAHIO_03155	hypothetical protein
+IBPFAHIO_03156	hypothetical protein
+IBPFAHIO_03157	hypothetical protein
+IBPFAHIO_03158	hypothetical protein
+IBPFAHIO_03159	hypothetical protein
+IBPFAHIO_03160	hypothetical protein
+IBPFAHIO_03161	hypothetical protein
+IBPFAHIO_03162	hypothetical protein
+IBPFAHIO_03163	hypothetical protein
+IBPFAHIO_03164	hypothetical protein

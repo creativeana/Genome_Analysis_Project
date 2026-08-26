@@ -1,0 +1,19 @@
+DESeq2 Summary
+
+Condition levels:
+[1] "BH"    "Serum"
+
+
+out of 2992 with nonzero total read count
+adjusted p-value < 0.1
+LFC > 0 (up)       : 1194, 40%
+LFC < 0 (down)     : 1171, 39%
+outliers [1]       : 0, 0%
+low counts [2]     : 0, 0%
+(mean count < 0)
+[1] see 'cooksCutoff' argument of ?results
+[2] see 'independentFiltering' argument of ?results
+
+
+Number of significant genes (padj < 0.05):
+2287 

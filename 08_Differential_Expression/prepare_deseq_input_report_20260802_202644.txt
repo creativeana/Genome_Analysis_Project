@@ -1,0 +1,17 @@
+Preparing DESeq2 Input Files
+Date: Sun Aug  2 08:26:44 PM CEST 2026
+Created DeSeq2 Files: ../10_DESeq2/ERR1797969.deseq_input.tsv
+Created DeSeq2 Files: ../10_DESeq2/ERR1797970.deseq_input.tsv
+Created DeSeq2 Files: ../10_DESeq2/ERR1797971.deseq_input.tsv
+Created DeSeq2 Files: ../10_DESeq2/ERR1797972.deseq_input.tsv
+Created DeSeq2 Files: ../10_DESeq2/ERR1797973.deseq_input.tsv
+Created DeSeq2 Files: ../10_DESeq2/ERR1797974.deseq_input.tsv
+
+Merging DESeq2 input files...
+DeSeq2 files merged.
+Count Matrix created with 3094 lines.
+Sample Metadata generated.
+Generated files:
+  counts_matrix.tsv
+  sample_info.tsv
+Matrix Created Report saved as: prepare_deseq_input_report_20260802_202644.txt
